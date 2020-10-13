@@ -10,7 +10,7 @@
 			<institution>National Documentation Center</institution>
 			<email>dsioulas@ekt.gr</email>
 		</maintainer>
-		<release date="2020-09-10" version="1.0.0.0" md5="2d335ad4b1ff014b2afff97964a9a5c7">
+		<release date="2020-13-10" version="1.0.0.0" md5="aa8528a982424015c650a69be61f61f5">
 			<package>https://github.com/EKT/epubJsViewer-ojs/releases/download/1.0.0.0/epubJsViewer.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.2.1.1</version>
