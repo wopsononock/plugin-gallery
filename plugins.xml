@@ -162,7 +162,7 @@
 		<name locale="en_US">Translator</name>
 		<homepage>https://github.com/pkp/translator</homepage>
 		<summary locale="en_US">This plugin permits translations to be updated and edited.</summary>
-		<description locale="en_US"><![CDATA[This plugin allows site administrators to edit the translation files that ship with the software. See <a href="https://p/wiki/index.php/Translating_OxS" target="_blank">https://pkp.sfu.ca/wiki/index.php/Translating_OxS</a> for information on translation management and contributing back.]]></description>
+		<description locale="en_US"><![CDATA[This plugin allows site administrators to edit the translation files that ship with the software. See <a href="https://pkp.sfu.ca/wiki/index.php/Translating_OxS" target="_blank">https://pkp.sfu.ca/wiki/index.php/Translating_OxS</a> for information on translation management and contributing back.]]></description>
 		<maintainer>
 			<name>Alec Smecher</name>
 			<institution>Public Knowledge Project</institution>
