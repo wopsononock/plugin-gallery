@@ -11,7 +11,7 @@
 			<email>dsioulas@ekt.gr</email>
 		</maintainer>
 		<release date="2020-13-10" version="1.0.0.0" md5="aa8528a982424015c650a69be61f61f5">
-			<package>https://github.com/EKT/epubJsViewer-ojs/releases/download/1.0.0.0/epubJsViewer.tar.gz</package>
+			<package>https://github.com/EKT/epubJsViewer-ojs/releases/download/v1_0_0-0/epubJsViewer-ojs-v1_0_0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.2.1.1</version>
 			</compatibility>
