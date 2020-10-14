@@ -3,14 +3,14 @@
 	<plugin category="generic" product="epubJsViewer">
 		<name locale="en_US">EPUB Viewer</name>
 		<homepage>https://github.com/EKT/epubJsViewer-ojs</homepage>
-		<summary locale="en_US">This plugin uses the <a target="_blank" href="https://github.com/futurepress/epub.js">epub.js library</a> to embed EPUB files on the article and issue galley view pages.</summary>
+		<summary locale="en_US">This plugin uses the <a target="_blank" href="\https://github.com/futurepress/epub.js\">epub.js library</a> to embed EPUB files on the article and issue galley view pages.</summary>
 		<description locale="en_US"><![CDATA[<p>EpubJsViewer plugin integrates epub.js in OJS articles and issues permitting the user the view EPUB files.</p>]]></description>
 		<maintainer>
 			<name>Dimitris Sioulas</name>
 			<institution>National Documentation Center</institution>
 			<email>dsioulas@ekt.gr</email>
 		</maintainer>
-		<release date="2020-13-10" version="1.0.0.0" md5="aa8528a982424015c650a69be61f61f5">
+		<release date="2020-10-13"  version="1.0.0.0" md5="aa8528a982424015c650a69be61f61f5">
 			<package>https://github.com/EKT/epubJsViewer-ojs/releases/download/v1_0_0-0/epubJsViewer-ojs-v1_0_0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.2.1.1</version>
@@ -162,7 +162,8 @@
 		<name locale="en_US">Translator</name>
 		<homepage>https://github.com/pkp/translator</homepage>
 		<summary locale="en_US">This plugin permits translations to be updated and edited.</summary>
-		<description locale="en_US"><![CDATA[This plugin allows site administrators to edit the translation files that ship with the software. See <a href="https://pkp.sfu.ca/wiki/index.php/Translating_OxS" target="_blank">https://pkp.sfu.ca/wiki/index.php/Translating_OxS</a> for information on translation management and contributing back.]]></description>
+		<description locale="en_US"><![CDATA[This plugin allows site administrators to edit the translation files that ship with the software. See <a href="https://p
+/wiki/index.php/Translating_OxS" target="_blank">https://pkp.sfu.ca/wiki/index.php/Translating_OxS</a> for information on translation management and contributing back.]]></description>
 		<maintainer>
 			<name>Alec Smecher</name>
 			<institution>Public Knowledge Project</institution>
