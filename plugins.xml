@@ -2525,7 +2525,7 @@
 		<description locale="en_US"><![CDATA[This plugin enable the integration with ReviewerCredits using REST APIs. The main goal is to create and approve Peer Review Claims on the ReviewerCredits website.]]></description>
 		<maintainer>
 			<name>Matteo Mondini</name>
-			<institution>Reviewer Credits</institution>
+			<institution>ReviewerCredits</institution>
 			<email>matteo.mondini@gmail.com</email>
 		</maintainer>
 		<release date="2020-10-14" version="1.0.0.1" md5="c011f3d86c0cefafd011b6427cdc3d5f">
@@ -2533,6 +2533,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.1.2.4</version>
+				<version>3.1.1.2</version>
 				<version>3.1.1.4</version>
 				<version>3.1.2.0</version>
 			</compatibility>
