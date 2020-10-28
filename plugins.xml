@@ -2321,7 +2321,7 @@
 				<version>3.1.2.4</version>
 			</compatibility>
 			<certification type="official"/>
-			<description>Maintenance release for OJS 3.1.2.</description>
+			<description>This release fixes a problem where multiple ORCID icons sometimes appeared on the article landing page.</description>
 		</release>
 
 	</plugin>
