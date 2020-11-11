@@ -2959,6 +2959,43 @@
 			<certification type="reviewed"/>
 			<description>Added a message to remind administrators to make an appropriate entry in the cookie policy.</description>
 		</release>
+		<release date="2020-11-11" version="1.0.0.3" md5="a4f5abe12d3117388c0dc07056315ff9">
+			<package>https://github.com/RBoelter/twitterBlock/releases/download/v1_0_0-3/twitterBlock-v1_0_0-3.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Spanish translation added</description>
+		</release>
+		<release date="2020-11-11" version="3.2.0.1" md5="7b5c445b7301f66329c5748cd91586fe">
+			<package>https://github.com/RBoelter/twitterBlock/releases/download/v3_2_0-1/twitterBlock-v3_2_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Spanish translation added</description>
+		</release>
 	</plugin>
 	<plugin category="blocks" product="announcementsBlock">
 		<name locale="en_US">Announcements Block</name>
