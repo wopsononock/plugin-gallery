@@ -3212,4 +3212,40 @@
 			<description>PKP|PN for OJS 3.2.1-x.</description>
 		</release>
 	</plugin>
+	<plugin category="generic" product="citations">
+		<name locale="en_US">Scopus/Crossref Citations Plugin</name>
+		<homepage>https://github.com/RBoelter/citations</homepage>
+		<summary locale="en_US">Shows the total number of citations and a "cited by" article list from Scopus and/or Crossref.</summary>
+		<description locale="en_US"><![CDATA[<p>This plugin uses the DOI of an article to get all citations from Scopus and/or Crossref. Google Scholar and PubMed are also supported. The count and list of citations is displayed in the sidebar of the article details. It is possible to choose between the different providers and display only the amount of results if the list is not desired.</p> <p>For more information check <a href="https://github.com/RBoelter/citations">GitHub</a></p>]]></description>
+		<maintainer>
+			<name>Ronny Bölter</name>
+			<institution>Leibniz Institute for Psychology (ZPID), Trier, Germany</institution>
+			<email>rb@leibniz-psychology.org</email>
+		</maintainer>
+		<release date="2020-11-10" version="3.1.0.1" md5="c5f0a8552057774782ff8dee9e1abd90">
+			<package>https://github.com/RBoelter/citations/releases/download/v3_1_0-1/citations-v3_1_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Scopus/Crossref Citations Plugin for OJS 3.1.2-x.</description>
+		</release>
+		<release date="2020-11-10" version="3.2.0.1" md5="581988e8032cb278240ef3ea4f15e9ba">
+			<package>https://github.com/RBoelter/citations/releases/download/v3_2_0-1/citations-v3_2_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Scopus/Crossref Citations Plugin for OJS 3.2.0-x.</description>
+		</release>
+	</plugin>
 </plugins>
