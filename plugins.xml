@@ -69,6 +69,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -77,6 +78,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.2.</description>
@@ -90,6 +92,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -98,6 +101,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.2.</description>
@@ -315,6 +319,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -323,6 +328,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -331,6 +337,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Adds new translations to the 2.0.2-1 release.</description>
@@ -392,6 +399,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -400,6 +408,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the iThenticate plugin for OJS/OMP 3.2.0.</description>
@@ -457,6 +466,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release 1.0.3-2 of the COinS plugin for OJS 3.2.1.</description>
@@ -573,6 +583,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
@@ -582,6 +593,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
@@ -591,6 +603,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
@@ -778,10 +791,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Piwik release for OJS/OMP 3.2.1</description>
@@ -913,10 +928,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>AddThis for OJS/OMP 3.2.1.</description>
@@ -926,14 +943,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>AddThis for OJS/OMP/OPS 3.2.1 (adds OPS support).</description>
@@ -1033,6 +1053,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Initial release of the SubscriptionSSO plugin for OJS 3.2.1.</description>
@@ -1146,6 +1167,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -1167,14 +1189,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the custom headers plugin for OJS/OMP/OPS 3.2.1.</description>
@@ -1218,14 +1243,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Initial Plugin Gallery release of the custom locale plugin for OJS/OMP/OPS 3.2.1.</description>
@@ -1310,6 +1338,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the JATS Template plugin for OJS 3.2.x</description>
@@ -1395,6 +1424,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the SWORD plugin.</description>
@@ -1404,6 +1434,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the SWORD plugin.</description>
@@ -1470,6 +1501,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Compatibility release of the JATS Template plugin for OJS 3.2</description>
@@ -1527,6 +1559,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>OJS 3.2.0-x and OJS 3.2.1 compatible version. Changes in the JS libraries used.</description>
@@ -1634,6 +1667,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release fixes an error when journals are not publishing open access. It also removes the next and previous page navigation on the issue archives page when all issues fit on one page.</description>
@@ -1647,6 +1681,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release fixes an error with the edit links for content like the about us and contact pages.</description>
@@ -1724,6 +1759,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This update includes better contrast for some elements, support for catalog category page and minor bugfixes</description>
@@ -1823,6 +1859,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This update contains fixes for small layout and javascript bugs, adds encoding of emails on the contact page with Smarty native plugin and includes localization files converted to Weblate</description>
@@ -1880,6 +1917,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release makes the theme compatible with OJS v3.2.</description>
@@ -1986,6 +2024,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>OJS 3.2 version : This release updates texture editor 2.3 + and bug fixes </description>
@@ -1999,6 +2038,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>OJS 3.2+ (V2.4.2.0) Final substance texture version release </description>
@@ -2044,6 +2084,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the plugin for OJS 3.2.1.</description>
@@ -2142,6 +2183,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release includes minor bugfixes</description>
@@ -2290,10 +2332,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.2.1.</description>
@@ -2303,10 +2347,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.2.1. (Different API help texts) </description>
@@ -2375,14 +2421,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OMP/OPS 3.2.1.</description>
@@ -2415,6 +2464,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for 3.2.1.</description>
@@ -2775,6 +2825,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.1.2.0</version>
@@ -2788,6 +2839,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Registration Notification Plugin v2.0.0.1 (Compatible with OJS/OMP 3.1.2).</description>
@@ -2834,14 +2886,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release for OJS/OMP v3.2.1.</description>
@@ -2910,14 +2965,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release for OJS/OPS/OMP 3.2.1.</description>
@@ -2955,6 +3013,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Added a message to remind administrators to make an appropriate entry in the cookie policy.</description>
@@ -3009,6 +3068,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS 3.2.1</description>
@@ -3033,6 +3093,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Initial release</description>
@@ -3128,6 +3189,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This update fixes a bug that would show unpublished issues on the homepage. It also implements a number of minor fixes and style improvements. Full details available at https://github.com/pkp/pragma/releases/tag/v1_0_0-1.</description>
@@ -3207,6 +3269,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>PKP|PN for OJS 3.2.1-x.</description>
