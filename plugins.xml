@@ -1783,6 +1783,14 @@
 			<certification type="official"/>
 			<description>This update includes better contrast for some elements, support for catalog category page and minor bugfixes</description>
 		</release>
+		<release date="2020-12-06" version="1.1.0.0" md5="d50b6d5e4cb09bdbf14086a26c48df87">
+			<package>https://github.com/pkp/classic/releases/download/1.1.0/classic-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms, and adds section policies on a submission page</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="healthSciences">
 		<name locale="en_US">Health Sciences</name>
@@ -1882,6 +1890,14 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>This update contains fixes for small layout and javascript bugs, adds encoding of emails on the contact page with Smarty native plugin and includes localization files converted to Weblate</description>
+		</release>
+		<release date="2020-12-06" version="1.1.0.0" md5="6f01b281d40eb67bc50eb355b1ad7e99">
+			<package>https://github.com/pkp/healthSciences/releases/download/1.1.0/healthSciences-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms, and adds section policies on a submission page</description>
 		</release>
 	</plugin>
 	<plugin category="themes" product="defaultManuscript">
@@ -2220,6 +2236,14 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>This release includes minor bugfixes</description>
+		</release>
+		<release date="2020-12-07" version="1.1.0.0" md5="641d06cbd8f1d623c9824afd2fc33d39">
+			<package>https://github.com/pkp/immersion/releases/download/1.1.0.0/immersion-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1 and fixes minor bugs</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="orcidProfile">
@@ -3337,6 +3361,14 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>This update fixes a bug that would show unpublished issues on the homepage. It also implements a number of minor fixes and style improvements. Full details available at https://github.com/pkp/pragma/releases/tag/v1_0_0-1.</description>
+		</release>
+		<release date="2020-12-08" version="1.1.0.0" md5="214fd31080b2bc8a0cd1302183c5ece3">
+			<package>https://github.com/pkp/pragma/releases/download/1.1.0/pragma-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms</description>
 		</release>
 	</plugin>
 	<plugin category="importexport" product="archivematicaExport">
