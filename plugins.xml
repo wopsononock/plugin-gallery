@@ -3503,7 +3503,7 @@
 			<institution>Public Knowledge Project</institution>
 			<email>pkp.contact@gmail.com</email>
 		</maintainer>
-		<release date="2020-12-18" version="1.1.0.0" md5="0c90ce2078ca1bfddcda031da5022193">
+		<release date="2020-12-18" version="1.1.0.0" md5="c90ce2078ca1bfddcda031da50221936">
 			<package>https://github.com/pkp/portico/releases/download/v1.1.0-0/portico-v1.1.0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.1.2.0</version>
