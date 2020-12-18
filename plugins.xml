@@ -3493,4 +3493,41 @@
 			<description>Scopus/Crossref Citations Plugin for OJS 3.2.0-x.</description>
 		</release>
 	</plugin>
+	<plugin category="importexport" product="portico">
+		<name locale="en_US">Portico Plugin</name>
+		<homepage>https://github.com/pkp/portico</homepage>
+		<summary locale="en_US">Supports export of published content to Portico.</summary>
+		<description locale="en_US"><![CDATA[<pa>This plugin enables the digital preservation of published content in the <a href="https://www.portico.org/">Portico</a> preservtion service.</p><p><strong>Note:</strong> This plugin requires ZipArchive support. See <a href="https://www.php.net/manual/en/zip.installation.php">https://www.php.net/manual/en/zip.installation.php</a> for details.]]></description>
+		<maintainer>
+			<name>Public Knowledge Project</name>
+			<institution>Public Knowledge Project</institution>
+			<email>pkp.contact@gmail.com</email>
+		</maintainer>
+		<release date="2020-12-18" version="1.1.0.0" md5="0c90ce2078ca1bfddcda031da5022193">
+			<package>https://github.com/pkp/portico/releases/download/v1.1.0-0/portico-v1.1.0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Portico for OJS 3.1.2-x.</description>
+		</release>
+		<release date="2020-12-18" version="1.1.1.0" md5="75a018971fd6416c9b3574e3ca2e3ad7">
+			<package>https://github.com/pkp/portico/releases/download/v1.1.1-0/portico-v1.1.1-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Portico for OJS 3.2.x.</description>
+		</release>
+	</plugin>
 </plugins>
