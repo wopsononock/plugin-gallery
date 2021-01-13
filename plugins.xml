@@ -1,5 +1,24 @@
 <?xml version="1.0"?>
 <plugins xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca plugins.xsd">
+	<plugin category="generic" product="epubJsViewer">
+		<name locale="en_US">EPUB Viewer</name>
+		<homepage>https://github.com/EKT/epubJsViewer-ojs</homepage>
+		<summary locale="en_US"><![CDATA[This plugin uses the (<a href="https://github.com/futurepress/epub.js" target="_blank">epub.js library</a>) to embed EPUB files on the articles and issues galley view pages.]]></summary>
+		<description locale="en_US"><![CDATA[<p>EpubJsViewer plugin integrates epub.js in OJS articles and issues permitting the user the view EPUB files.</p>]]></description>
+		<maintainer>
+			<name>Dimitris Sioulas</name>
+			<institution>National Documentation Center</institution>
+			<email>dsioulas@ekt.gr</email>
+		</maintainer>
+		<release date="2020-10-13"  version="1.0.0.0" md5="aa8528a982424015c650a69be61f61f5">
+			<package>https://github.com/EKT/epubJsViewer-ojs/releases/download/v1_0_0-0/epubJsViewer-ojs-v1_0_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Update to be compatible with OJS 3.2.1.1</description>
+		</release>
+	</plugin>
 	<plugin category="generic" product="hypothesis">
 		<name locale="en_US">Hypothes.is</name>
 		<homepage>https://github.com/asmecher/hypothesis</homepage>
@@ -69,6 +88,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -77,6 +97,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.2.</description>
@@ -90,6 +111,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -98,6 +120,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.2.</description>
@@ -315,6 +338,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -323,6 +347,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -331,6 +356,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Adds new translations to the 2.0.2-1 release.</description>
@@ -392,6 +418,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -400,6 +427,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the iThenticate plugin for OJS/OMP 3.2.0.</description>
@@ -457,6 +485,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release 1.0.3-2 of the COinS plugin for OJS 3.2.1.</description>
@@ -573,6 +602,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
@@ -582,6 +612,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
@@ -591,6 +622,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
@@ -778,10 +810,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Piwik release for OJS/OMP 3.2.1</description>
@@ -913,10 +947,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>AddThis for OJS/OMP 3.2.1.</description>
@@ -926,14 +962,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>AddThis for OJS/OMP/OPS 3.2.1 (adds OPS support).</description>
@@ -1033,6 +1072,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Initial release of the SubscriptionSSO plugin for OJS 3.2.1.</description>
@@ -1146,6 +1186,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -1167,14 +1208,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the custom headers plugin for OJS/OMP/OPS 3.2.1.</description>
@@ -1218,14 +1262,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Initial Plugin Gallery release of the custom locale plugin for OJS/OMP/OPS 3.2.1.</description>
@@ -1310,6 +1357,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the JATS Template plugin for OJS 3.2.x</description>
@@ -1395,6 +1443,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the SWORD plugin.</description>
@@ -1404,6 +1453,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the SWORD plugin.</description>
@@ -1470,6 +1520,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Compatibility release of the JATS Template plugin for OJS 3.2</description>
@@ -1527,6 +1578,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>OJS 3.2.0-x and OJS 3.2.1 compatible version. Changes in the JS libraries used.</description>
@@ -1634,6 +1686,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release fixes an error when journals are not publishing open access. It also removes the next and previous page navigation on the issue archives page when all issues fit on one page.</description>
@@ -1647,6 +1700,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release fixes an error with the edit links for content like the about us and contact pages.</description>
@@ -1724,9 +1778,18 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This update includes better contrast for some elements, support for catalog category page and minor bugfixes</description>
+		</release>
+		<release date="2020-12-06" version="1.1.0.0" md5="d50b6d5e4cb09bdbf14086a26c48df87">
+			<package>https://github.com/pkp/classic/releases/download/1.1.0/classic-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms, and adds section policies on a submission page</description>
 		</release>
 	</plugin>
 	<plugin category="themes" product="healthSciences">
@@ -1823,9 +1886,18 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This update contains fixes for small layout and javascript bugs, adds encoding of emails on the contact page with Smarty native plugin and includes localization files converted to Weblate</description>
+		</release>
+		<release date="2020-12-06" version="1.1.0.0" md5="6f01b281d40eb67bc50eb355b1ad7e99">
+			<package>https://github.com/pkp/healthSciences/releases/download/1.1.0/healthSciences-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms, and adds section policies on a submission page</description>
 		</release>
 	</plugin>
 	<plugin category="themes" product="defaultManuscript">
@@ -1880,6 +1952,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release makes the theme compatible with OJS v3.2.</description>
@@ -1986,6 +2059,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>OJS 3.2 version : This release updates texture editor 2.3 + and bug fixes </description>
@@ -1999,6 +2073,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>OJS 3.2+ (V2.4.2.0) Final substance texture version release </description>
@@ -2014,6 +2089,20 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>OJS 3.1 (V2.4.1.0) Final substance texture version release</description>
+		</release>
+		<release date="2020-11-17" version="2.4.2.3" md5="d117d9494a0d1712e7009304f3b30010">
+			<package>https://github.com/pkp/texture/releases/download/v2_4_3-3/texture-v2_4_3-3.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>OJS 3.2+ (V2.4.3.3) JATS mixed citation support for substance texture</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="crossrefReferenceLinking">
@@ -2044,6 +2133,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the plugin for OJS 3.2.1.</description>
@@ -2142,9 +2232,18 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release includes minor bugfixes</description>
+		</release>
+		<release date="2020-12-07" version="1.1.0.0" md5="641d06cbd8f1d623c9824afd2fc33d39">
+			<package>https://github.com/pkp/immersion/releases/download/1.1.0.0/immersion-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1 and fixes minor bugs</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="orcidProfile">
@@ -2290,10 +2389,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.2.1.</description>
@@ -2303,10 +2404,12 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.2.1. (Different API help texts) </description>
@@ -2322,6 +2425,21 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>This release fixes a problem where multiple ORCID icons sometimes appeared on the article landing page.</description>
+		</release>
+		<release date="2020-12-05" version="1.1.2.6" md5="23322f89d69629b02daa4800d7a2f8dd">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-6/orcidProfile-v1_1_2-6.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Maintenance release fixes API calls between ORCID and OJS </description>
 		</release>
 
 	</plugin>
@@ -2375,17 +2493,26 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
 			</compatibility>
 			<certification type="official"/>
-			<description>Maintenance release for OJS/OMP/OPS 3.2.1.</description>
+			<description>Maintenance release for OJS/OMP/OPS 3.2.1 / 3.3.0.</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="paperbuzz">
@@ -2415,6 +2542,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for 3.2.1.</description>
@@ -2532,22 +2660,25 @@
 	</plugin>
 	<plugin category="generic" product="reviewerCredits">
 		<name locale="en_US">ReviewerCredits Plugin</name>
-		<homepage>https://github.com/4Science/reviewercredits-ojs</homepage>
+		<homepage>https://gitlab.com/reviewercredits/reviewercredits-ojs-plugin</homepage>
 		<summary locale="en_US">This plugin enable the integration with ReviewerCredits (www.reviewercredits.com).</summary>
 		<description locale="en_US"><![CDATA[This plugin enable the integration with ReviewerCredits using REST APIs. The main goal is to create and approve Peer Review Claims on the ReviewerCredits website.]]></description>
 		<maintainer>
-			<name>4Science staff</name>
-			<institution>4Science</institution>
-			<email>support@4science.it</email>
+			<name>Matteo Mondini</name>
+			<institution>ReviewerCredits</institution>
+			<email>matteo.mondini@gmail.com</email>
 		</maintainer>
-		<release date="2019-07-08" version="1.0.0.0" md5="7ce597537891c0e91306127f4525a05d">
-			<package>https://github.com/4Science/reviewercredits-ojs/releases/download/1.0.0.0/reviewerCredits.tgz</package>
+		<release date="2020-10-14" version="1.0.0.1" md5="c011f3d86c0cefafd011b6427cdc3d5f">
+			<package>https://www.reviewercredits.com/wp-content/uploads/2020/10/reviewerCredits.tar.gz</package>
 			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.1.2.4</version>
+				<version>3.1.1.2</version>
 				<version>3.1.1.4</version>
 				<version>3.1.2.0</version>
 			</compatibility>
 			<certification type="partner"/>
-			<description>Plugin to enable the integration with ReviewerCredits. First release.</description>
+			<description>Plugin to enable the integration with ReviewerCredits.</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="plumAnalytics">
@@ -2560,8 +2691,8 @@
 			<institution>University of Pittsburgh</institution>
 			<email>uls-systemsdevelopment@pitt.edu</email>
 		</maintainer>
-		<release date="2020-07-03" version="1.3.0.1" md5="ba720f0e04a79c7e379623a506e0454d">
-			<package>https://github.com/ulsdevteam/ojs-plum-plugin/releases/download/v1.3.0-1/plumAnalytics-1.3.0.1.tar.gz</package>
+		<release date="2019-04-22" version="1.3.0.0" md5="05030eac0d4b7daa14b26febbf4b5571">
+			<package>https://github.com/ulsdevteam/ojs-plum-plugin/releases/download/v1.3.0-0/plumAnalytics-1.3.0.0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.1.1.4</version>
 				<version>3.1.2.0</version>
@@ -2572,6 +2703,25 @@
 			</compatibility>
 			<certification type="partner" />
 			<description>Release of the Plum Analytics plugin for OJS 3.1.1/3.1.2.</description>
+		</release>
+		<release date="2020-07-03" version="1.3.0.1" md5="ba720f0e04a79c7e379623a506e0454d">
+			<package>https://github.com/ulsdevteam/ojs-plum-plugin/releases/download/v1.3.0-1/plumAnalytics-1.3.0.1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.1.4</version>
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+			</compatibility>
+			<certification type="partner" />
+			<description>Release of the Plum Analytics plugin for OJS 3.1/3.2.</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="sushiLite">
@@ -2775,6 +2925,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.1.2.0</version>
@@ -2788,6 +2939,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Registration Notification Plugin v2.0.0.1 (Compatible with OJS/OMP 3.1.2).</description>
@@ -2834,14 +2986,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release for OJS/OMP v3.2.1.</description>
@@ -2910,14 +3065,17 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release for OJS/OPS/OMP 3.2.1.</description>
@@ -2955,6 +3113,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Added a message to remind administrators to make an appropriate entry in the cookie policy.</description>
@@ -3083,6 +3242,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS 3.2.1</description>
@@ -3107,6 +3267,7 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Initial release</description>
@@ -3202,9 +3363,18 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This update fixes a bug that would show unpublished issues on the homepage. It also implements a number of minor fixes and style improvements. Full details available at https://github.com/pkp/pragma/releases/tag/v1_0_0-1.</description>
+		</release>
+		<release date="2020-12-08" version="1.1.0.0" md5="214fd31080b2bc8a0cd1302183c5ece3">
+			<package>https://github.com/pkp/pragma/releases/download/1.1.0/pragma-1.1.0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms</description>
 		</release>
 	</plugin>
 	<plugin category="importexport" product="archivematicaExport">
@@ -3281,6 +3451,7 @@
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>PKP|PN for OJS 3.2.1-x.</description>
@@ -3320,6 +3491,64 @@
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Scopus/Crossref Citations Plugin for OJS 3.2.0-x.</description>
+		</release>
+	</plugin>
+	<plugin category="importexport" product="portico">
+		<name locale="en_US">Portico Plugin</name>
+		<homepage>https://github.com/pkp/portico</homepage>
+		<summary locale="en_US">Supports export of published content to Portico.</summary>
+		<description locale="en_US"><![CDATA[<pa>This plugin enables the digital preservation of published content in the <a href="https://www.portico.org/">Portico</a> preservtion service.</p><p><strong>Note:</strong> This plugin requires ZipArchive support. See <a href="https://www.php.net/manual/en/zip.installation.php">https://www.php.net/manual/en/zip.installation.php</a> for details.]]></description>
+		<maintainer>
+			<name>Public Knowledge Project</name>
+			<institution>Public Knowledge Project</institution>
+			<email>pkp.contact@gmail.com</email>
+		</maintainer>
+		<release date="2020-12-18" version="1.1.0.0" md5="c90ce2078ca1bfddcda031da50221936">
+			<package>https://github.com/pkp/portico/releases/download/v1.1.0-0/portico-v1.1.0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Portico for OJS 3.1.2-x.</description>
+		</release>
+		<release date="2020-12-18" version="1.1.1.0" md5="75a018971fd6416c9b3574e3ca2e3ad7">
+			<package>https://github.com/pkp/portico/releases/download/v1.1.1-0/portico-v1.1.1-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Portico for OJS 3.2.x.</description>
+		</release>
+	</plugin>
+	<plugin category="generic" product="ror">
+		<name locale="en_US">Research Organization Registry(ROR) Plugin</name>
+		<homepage>https://github.com/withanage/ror/</homepage>
+		<summary locale="en_US">OJS 3 Plugin for adding Organization names for author affiliations provided by ROR.org</summary>
+		<description locale="en_US"><![CDATA[<p>The ROR plugin integrates support for <a href="https://ror.org/">ROR</a>. Organizations maintained by ROR.org are automatically fetched using an auto suggesting function. For multilingual journals, additionally supported languages will be pre-filled given, ROR.org has the corresponding names in the OJS supported languages. </p>]]>></description>
+		<maintainer>
+			<name>Dulip Withanage</name>
+			<institution>German National Library of Science and Technology (TIB), Hannover, Germany </institution>
+			<email>dulip.withanage@gmail.com</email>
+		</maintainer>
+		<release date="2019-11-25" version="1.0.0.0" md5="b18b3a94e249778feda0265f36fa59b6">
+			<package>https://github.com/withanage/ror/releases/download/v1_0_0-0/ror-v1_0_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+			</compatibility>
+			<certification type="partner"/>
+			<description>Initial release</description>
 		</release>
 	</plugin>
 </plugins>
