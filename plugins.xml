@@ -3135,6 +3135,8 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.3.0.1</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -3143,6 +3145,8 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.3.0.1</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -3151,6 +3155,8 @@
 				<version>3.2.0.3</version>
 				<version>3.2.1.0</version>
 				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.3.0.1</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Spanish translation added</description>
