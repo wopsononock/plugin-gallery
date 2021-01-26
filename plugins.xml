@@ -3667,4 +3667,24 @@
 			<description>Initial release</description>
 		</release>
 	</plugin>
+	<plugin category="importexport" product="medra">
+		<name locale="en_US">DOI to mEDRA xml export and registration plugin</name>
+		<homepage>https://github.com/pkp/medra/</homepage>
+		<summary locale="en_US">Allows DOI export in ONIX4DOI format and the registration with mEDRA.</summary>
+		<description locale="en_US"><![CDATA[<p>The mEDRA plugin enables the export of issue, article and galley metadata in ONIX4DOI format and
+the registration of DOIs with mEDRA.</p>]]></description>
+		<maintainer>
+			<name>Public Knowledge Project</name>
+			<institution>Public Knowledge Project</institution>
+			<email>pkp.contact@gmail.com</email>
+		</maintainer>
+		<release date="2021-01-26" version="3.0.0.0" md5="56b2461353572eeac7b3c2bb30e50d33">
+			<package>https://github.com/pkp/medra/releases/download/v3_0_0-0/medra-v3_0_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>mEDRA plugin for OJS 3.3.0-x</description>
+		</release>
+	</plugin>
 </plugins>
