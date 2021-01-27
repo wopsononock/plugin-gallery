@@ -2492,6 +2492,19 @@
 			<certification type="official"/>
 			<description>Maintenance release fixes API calls between ORCID and OJS </description>
 		</release>
+		<release date="2021-01-27" version="1.1.2.8" md5="c00bee25cd3b545faefe021267f4b00a">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-8/orcidProfile-v1_1_2-8.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Adds support for OJS/OPS 3.3, Better error hanlding for Guzzle,  Member API publication update</description>
+		</release>
 
 	</plugin>
 	<plugin category="generic" product="defaultTranslation">
