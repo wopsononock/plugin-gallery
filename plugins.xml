@@ -131,6 +131,17 @@
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.2.</description>
 		</release>
+		<release date="2021-01-28" version="1.0.4.0" md5="a0c6196b1d462b04a6d63fd10f4a8b80">
+			<package>https://github.com/asmecher/hypothesis/releases/download/v1_0_4-0/hypothesis-v1_0_4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Release of the Hypothes.is plugin for OJS/OPS 3.3.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="shibboleth">
 		<name locale="en_US">Shibboleth</name>
