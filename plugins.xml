@@ -381,6 +381,20 @@
 			<certification type="official" />
 			<description>Adds new translations to the 2.0.2-1 release.</description>
 		</release>
+		<release date="2021-01-28" version="2.0.3.0" md5="eadebb2d59723de91cf174e692a71819">
+			<package>https://github.com/asmecher/backup/releases/download/v2_0_3-0/backup-v2_0_3-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Adds new translations to the previous release.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="plagiarism">
 		<name locale="en_US">iThenticate</name>
