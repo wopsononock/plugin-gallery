@@ -1742,6 +1742,15 @@
 			<certification type="official" />
 			<description>This release fixes an error with the edit links for content like the about us and contact pages.</description>
 		</release>
+		<release date="2021-01-28" version="3.2.0.3" md5="649ea92407af8c772de628000103a8a7">
+			<package>https://github.com/NateWr/bootstrap3/releases/download/v3_2_0-3/bootstrap3-v3_2_0-3.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>This release updates the theme to be compatible with OJS 3.3.</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="classic">
 		<name locale="en_US">Classic</name>
