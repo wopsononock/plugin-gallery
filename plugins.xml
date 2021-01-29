@@ -678,6 +678,14 @@
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.2.1.</description>
 		</release>
+		<release date="2021-01-28" version="1.0.6.0" md5="7d36d2260c58cad45a08e8fa11f3d628">
+			<package>https://github.com/pkp/quickSubmit/releases/download/v1_0_6-0/quickSubmit-v1_0_6-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Maintenance release of the QuickSubmit plugin for OJS 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="allowedUploads">
 		<name locale="en_US">Allowed Uploads</name>
