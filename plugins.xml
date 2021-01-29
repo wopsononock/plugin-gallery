@@ -762,12 +762,12 @@
 		</release>
 	</plugin>
 	<plugin category="generic" product="piwik">
-		<name locale="en_US">Piwik</name>
+		<name locale="en_US">Matomo</name>
 		<homepage>https://github.com/pkp/piwik</homepage>
-		<summary locale="en_US">Permits usage statistics tracking using Piwik.</summary>
-		<description locale="en_US"><![CDATA[<p>The Piwik plugin allows managers to track website usage statistics.</p>]]></description>
+		<summary locale="en_US">Permits usage statistics tracking using Matomo (formerly Piwik).</summary>
+		<description locale="en_US"><![CDATA[<p>The Matomo plugin (formerly Piwik) allows managers to track website usage statistics.</p>]]></description>
 		<maintainer>
-			<name>Kassim Machioudi</name>
+			<name>Alec Smecher</name>
 			<institution>Public Knowledge Project</institution>
 			<email>pkp.contact@gmail.com</email>
 		</maintainer>
@@ -881,6 +881,17 @@
 			</compatibility>
 			<certification type="official" />
 			<description>Piwik release for OJS/OMP 3.2.1</description>
+		</release>
+		<release date="2021-01-29" version="1.0.4.0" md5="adb165b48ccff29afb4f1387e11b0e5c">
+			<package>https://github.com/pkp/piwik/releases/download/v1_0_4-0/piwik-v1_0_4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Piwik release for OJS/OMP 3.3.0</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="shariff">
