@@ -468,6 +468,17 @@
 			<certification type="official" />
 			<description>Release of the iThenticate plugin for OJS/OMP 3.2.0.</description>
 		</release>
+		<release date="2021-01-28" version="1.0.4.0" md5="468861fa91fa9987965c3174d3bc413a">
+			<package>https://github.com/asmecher/plagiarism/releases/download/v1_0_4-0/plagiarism-v1_0_4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Release of the iThenticate plugin for OJS/OMP 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="coins">
 		<name locale="en_US">COinS</name>
