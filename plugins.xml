@@ -1623,7 +1623,7 @@
 				<version>3.1.2.4</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Minimum Viable Product (MVP) release of the JATS Template plugin for Coalition Publi.ca.</description>
+			<description>Minimum Viable Product (MVP) release of OAI JATS plugin for Coalition Publi.ca.</description>
 		</release>
 		<release date="2020-02-27" version="1.0.2.0" md5="d56d784d691333748e6e94b9ca70c903">
 			<package>https://github.com/pkp/oaiJats/releases/download/v1.0.2-0/oaiJats-v1.0.2-0.tar.gz</package>
@@ -1634,7 +1634,7 @@
 				<version>3.2.0.3</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Compatibility release of the JATS Template plugin for OJS 3.2</description>
+			<description>Compatibility release of the OAI JATS plugin for OJS 3.2</description>
 		</release>
 		<release date="2020-06-02" version="1.0.3.0" md5="c1f8d354e5d4c018a8d978490ad5f6be">
 			<package>https://github.com/pkp/oaiJats/releases/download/v1.0.3-0/oaiJats-v1.0.3-0.tar.gz</package>
@@ -1649,7 +1649,15 @@
 				<version>3.2.1.3</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Compatibility release of the JATS Template plugin for OJS 3.2</description>
+			<description>Compatibility release of the OAI JATS plugin for OJS 3.2</description>
+		</release>
+		<release date="2021-01-29" version="1.0.4.0" md5="6d629211603da456512fb3fcec11f3ed">
+			<package>https://github.com/pkp/oaiJats/releases/download/v1_0_4-0/oaiJats-v1_0_4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release of the OAI JATS plugin for OJS 3.3</description>
 		</release>
 	</plugin>
 	<plugin category="blocks" product="keywordCloud">
