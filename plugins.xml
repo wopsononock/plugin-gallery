@@ -1320,6 +1320,20 @@
 			<certification type="official" />
 			<description>Release of the custom headers plugin for OJS/OMP/OPS 3.2.1.</description>
 		</release>
+		<release date="2021-01-29" version="1.0.3.0" md5="ece026fa333c72a8ce39bd19c0f3408b">
+			<package>https://github.com/pkp/customHeader/releases/download/v1_0_3-0/customHeader-v1_0_3-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Release of the custom headers plugin for OJS/OMP/OPS 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="customLocale">
 		<name locale="en_US">Custom Locale Plugin</name>
