@@ -1055,6 +1055,20 @@
 			<certification type="official" />
 			<description>AddThis for OJS/OMP/OPS 3.2.1 (adds OPS support).</description>
 		</release>
+		<release date="2021-01-29" version="1.0.4.0" md5="e442214520959b5e6c2c05572d56572b">
+			<package>https://github.com/pkp/addThis/releases/download/v1_0_4-0/addThis-v1_0_4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>AddThis for OJS/OMP/OPS 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="importexport" product="copernicus">
 		<name locale="en_US">OJS to Copernicus Citation Index xml export plugin</name>
