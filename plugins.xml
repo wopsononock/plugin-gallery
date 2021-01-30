@@ -1477,6 +1477,14 @@
 			<certification type="official" />
 			<description>Maintenance release of the JATS Template plugin for OJS 3.2.x</description>
 		</release>
+		<release date="2021-01-29" version="1.0.5.0" md5="1b2284689ee11cd0a357316dfdec2f53">
+			<package>https://github.com/pkp/jatsTemplate/releases/download/v1_0_5-0/jatsTemplate-v1_0_5-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release of the JATS Template plugin for OJS 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="sword">
 		<name locale="en_US">SWORD Deposit Plugin</name>
