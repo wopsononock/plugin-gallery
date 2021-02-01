@@ -3065,6 +3065,21 @@
 			<certification type="partner"/>
 			<description>Release of the authorRequirements plugin for OJS/OMP 3.2.0</description>
 		</release>
+		<release date="2021-02-02" version="1.0.1.0" md5="42a1097da965784028ea5849ab1a1362">
+			<package>https://github.com/ewhanson/authorRequirements/releases/download/v1.0.1-0/authorRequirements-1.0.1-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<certification type="partner"/>
+			<description>Release of the authorRequirements plugin for OJS/OMP 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="registrationNotification">
 		<name locale="en_US">Registration Notification</name>
