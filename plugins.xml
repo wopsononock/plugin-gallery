@@ -2810,6 +2810,16 @@
 			<certification type="official"/>
 			<description>Maintenance release for 3.2.1.</description>
 		</release>
+		<release date="2021-02-02" version="1.0.3.0" md5="085fe0fc182453574ecc1a71bebb396e">
+			<package>https://github.com/pkp/paperbuzz/releases/download/v1_0_3-0/paperbuzz-v1_0_3-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Maintenance release for 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="openAIRE">
 		<name locale="en_US">OpenAIRE Plugin 2.0</name>
