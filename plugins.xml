@@ -1408,6 +1408,38 @@
 			<certification type="official" />
 			<description>Initial Plugin Gallery release of the custom locale plugin for OJS/OMP/OPS 3.2.1.</description>
 		</release>
+		<release date="2021-02-01" version="1.1.0.2" md5="60a21ccef95df9b0313fa98878c7d1bc">
+			<package>https://github.com/NateWr/customLocale/releases/download/v1_1_0-2/customLocale-v1_1_0-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<certification type="official" />
+			<description>A minor update that standardizes a couple of language definitions.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="jatsTemplate">
 		<name locale="en_US">JATS Template Plugin</name>
