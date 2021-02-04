@@ -1710,6 +1710,15 @@
 			<certification type="official" />
 			<description>Compatibility release of the OAI JATS plugin for OJS 3.3</description>
 		</release>
+		<release date="2021-02-04" version="1.0.4.2" md5="8b8a59e98177f49dd923b2a3fb8be3cd">
+			<package>https://github.com/pkp/oaiJats/releases/download/v1_0_4-2/oaiJats-v1_0_4-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the OAI JATS plugin for OJS 3.3</description>
+		</release>
 	</plugin>
 	<plugin category="blocks" product="keywordCloud">
 		<name locale="en_US">Keyword Cloud Plugin</name>
