@@ -2791,6 +2791,19 @@
 			<certification type="official"/>
 			<description>This release fixes a problem where multiple ORCID icons sometimes appeared on the article landing page.</description>
 		</release>
+		<release date="2021-02-26" version="1.1.1.8" md5="045e7d98a454756f3f1041ea73c10eee">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_1-8/orcidProfile-v1_1_1-8.tar.gz
+			</package>
+			<compatibility application="ojs2">
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>API failure handling</description>
+		</release>
 		<release date="2020-12-05" version="1.1.2.6" md5="23322f89d69629b02daa4800d7a2f8dd">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-6/orcidProfile-v1_1_2-6.tar.gz</package>
 			<compatibility application="ojs2">
