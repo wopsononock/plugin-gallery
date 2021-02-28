@@ -2803,6 +2803,19 @@
 			<certification type="official"/>
 			<description>API failure handling</description>
 		</release>
+		<release date="2021-02-28" version="1.1.1.12" md5="a0fb6fd1295fde47300963d286014bca">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_1-12/orcidProfile-v1_1_1-12.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>API failure handling</description>
+		</release>
+
 		<release date="2020-12-05" version="1.1.2.6" md5="23322f89d69629b02daa4800d7a2f8dd">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-6/orcidProfile-v1_1_2-6.tar.gz</package>
 			<compatibility application="ojs2">
