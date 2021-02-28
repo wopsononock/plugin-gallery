@@ -2834,6 +2834,25 @@
 			<certification type="official"/>
 			<description>Maintenance release fixes API calls between ORCID and OJS </description>
 		</release>
+		<release date="2021-02-28" version="1.1.2.6" md5="a010f370569e76081dfb44ff0105fad8">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-7/orcidProfile-v1_1_2-7.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Disable for  site-index, disable by cleintId,Secret error</description>
+		</release>
 		<release date="2021-01-27" version="1.1.2.8" md5="c00bee25cd3b545faefe021267f4b00a">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-8/orcidProfile-v1_1_2-8.tar.gz</package>
 			<compatibility application="ojs2">
