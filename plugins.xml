@@ -2813,7 +2813,7 @@
 				<version>3.1.2.4</version>
 			</compatibility>
 			<certification type="official"/>
-			<description>Disable for  site-index, disable by cleintId,Secret error</description>
+			<description>Disable for  site-index, disable by cleint Id and secret errors</description>
 		</release>
 		<release date="2020-12-05" version="1.1.2.6" md5="23322f89d69629b02daa4800d7a2f8dd">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-6/orcidProfile-v1_1_2-6.tar.gz</package>
@@ -2851,7 +2851,7 @@
 				<version>3.2.1.4</version>
 			</compatibility>
 			<certification type="official"/>
-			<description>Disable for  site-index, disable by cleintId,Secret error</description>
+			<description>Disable for  site-index, disable by cleint Id and secret errors</description>
 		</release>
 		<release date="2021-01-27" version="1.1.2.8" md5="c00bee25cd3b545faefe021267f4b00a">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-8/orcidProfile-v1_1_2-8.tar.gz</package>
