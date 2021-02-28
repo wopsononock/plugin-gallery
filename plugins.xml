@@ -2834,7 +2834,7 @@
 			<certification type="official"/>
 			<description>Maintenance release fixes API calls between ORCID and OJS </description>
 		</release>
-		<release date="2021-02-28" version="1.1.2.6" md5="a010f370569e76081dfb44ff0105fad8">
+		<release date="2021-02-28" version="1.1.2.7" md5="a010f370569e76081dfb44ff0105fad8">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-7/orcidProfile-v1_1_2-7.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
