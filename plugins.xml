@@ -2530,6 +2530,14 @@
 			<certification type="official" />
 			<description>Maintenance release of the plugin for OJS 3.3.0.</description>
 		</release>
+		<release date="2021-03-27" version="1.0.2.1" md5="07407224b3fa44ced7a0cb242561df76">
+			<package>https://github.com/pkp/crossrefReferenceLinking/releases/download/v1_0_2-1/crossrefReferenceLinking-v1_0_2-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.4</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the plugin for OJS 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="immersion">
 		<name locale="en_US">Immersion</name>
