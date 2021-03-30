@@ -4458,7 +4458,7 @@
 			<description>Portico for OJS 3.2.x.</description>
 		</release>
 		<release date="2021-02-25" version="1.1.2.2" md5="242f71024cb2a59953a598185f6703fe">
-			<package>https://github.com/pkp/portico/releases/download/v1_1_1-2/portico-v1_1_1-2.tar.gz</package>
+			<package>https://github.com/pkp/portico/releases/download/v1_1_2-2/portico-v1_1_2-2.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.4</version><!-- Previous 3.3.x did not have flysystem sftp -->
 			</compatibility>
