@@ -1440,7 +1440,7 @@
 			<certification type="official" />
 			<description>Release of the custom headers plugin for OJS/OMP/OPS 3.3.0.</description>
 		</release>
-		<release date="2021-03-30" version="1.0.3.1" md5="b5989b509d96506be2e82258d95ef33cd830b75d">
+		<release date="2021-03-30" version="1.0.3.1" md5="eab00ca49ea4b929b8df24f5958dceea">
 			<package>https://github.com/pkp/customHeader/releases/download/v1_0_3-1/customHeader-v1_0_3-1.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.1</version>
