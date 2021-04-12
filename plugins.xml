@@ -4603,6 +4603,15 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official" />
 			<description>mEDRA plugin for OJS 3.3.0-x</description>
 		</release>
+		<release date="2021-04-12" version="3.0.0.1" md5="78dec2d322df31f3946b0a3e50300fc0">
+			<package>https://github.com/pkp/medra/releases/download/v3_0_0-1/medra-v3_0_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the plugin for OJS 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="openid">
 		<name locale="en_US">OpenID Authentication Plugin</name>
