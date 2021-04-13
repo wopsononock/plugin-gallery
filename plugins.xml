@@ -3141,6 +3141,23 @@
 			<certification type="official"/>
 			<description>Maintenance release for 3.3.0.</description>
 		</release>
+		<release date="2021-04-12" version="1.0.3.1" md5="e979ad4fb7aa2806abd320cfea3ccf44">
+			<package>https://github.com/pkp/paperbuzz/releases/download/v1_0_3-1/paperbuzz-v1_0_3-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Maintenance release for OJS/OPS 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="openAIRE">
 		<name locale="en_US">OpenAIRE Plugin 2.0</name>
