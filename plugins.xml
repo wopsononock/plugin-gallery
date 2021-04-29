@@ -144,6 +144,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -151,6 +152,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.3.</description>
@@ -208,6 +210,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -224,6 +227,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -240,6 +244,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the Shibboleth plugin for 3.2 and later.</description>
@@ -458,6 +463,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -465,6 +471,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -472,6 +479,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Adds new translations to the previous release.</description>
@@ -559,6 +567,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -566,6 +575,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the iThenticate plugin for OJS/OMP 3.3.0.</description>
@@ -631,6 +641,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release 1.0.3-2 of the COinS plugin for OJS 3.2.1/3.3.0.</description>
@@ -786,6 +797,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.3.0.</description>
@@ -995,6 +1007,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -1002,6 +1015,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Piwik release for OJS/OMP 3.3.0</description>
@@ -1181,6 +1195,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -1188,6 +1203,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -1195,6 +1211,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>AddThis for OJS/OMP/OPS 3.3.0.</description>
@@ -1310,6 +1327,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the SubscriptionSSO plugin for OJS 3.3.x.</description>
@@ -1371,6 +1389,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -1378,6 +1397,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Update for compatibility with v3.3.</description>
@@ -1495,6 +1515,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -1502,6 +1523,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -1509,6 +1531,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the custom headers plugin for OJS/OMP/OPS 3.3.0.</description>
@@ -1521,6 +1544,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -1528,6 +1552,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -1535,6 +1560,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the custom header plugin for OJS/OMP/OPS 3.3.0.</description>
@@ -1613,6 +1639,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
@@ -1626,6 +1653,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
@@ -1639,6 +1667,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>A minor update that standardizes a couple of language definitions.</description>
@@ -1738,6 +1767,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Compatibility release of the JATS Template plugin for OJS 3.3.0</description>
@@ -1919,6 +1949,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Compatibility release of the OAI JATS plugin for OJS 3.3</description>
@@ -1931,6 +1962,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Bugfix release of the OAI JATS plugin for OJS 3.3</description>
@@ -2147,6 +2179,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This release updates the theme to be compatible with OJS 3.3.</description>
@@ -2239,6 +2272,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms, and adds section policies on a submission page</description>
@@ -2353,6 +2387,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms, and adds section policies on a submission page</description>
@@ -2426,6 +2461,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>A minor update to support changes to the default theme in OJS 3.3.</description>
@@ -2592,6 +2628,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release updates texture plugin compatible with OJS 3.3.0.0 and after versions </description>
@@ -2637,6 +2674,7 @@
 			<compatibility application="ojs2">
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release of the plugin for OJS 3.3.0.</description>
@@ -2646,6 +2684,7 @@
 			<compatibility application="ojs2">
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Bugfix release of the plugin for OJS 3.3.0</description>
@@ -2759,6 +2798,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release updates a theme to be compatible with OJS 3.3.0.1 and fixes minor bugs</description>
@@ -3023,6 +3063,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.0</version>
@@ -3031,6 +3072,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Adds support for OJS/OPS 3.3, Better error hanlding for Guzzle,  Member API publication update</description>
@@ -3044,6 +3086,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.0</version>
@@ -3052,6 +3095,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Disable site-index mails, Client-Secret and ID validation </description>
@@ -3116,6 +3160,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
@@ -3129,6 +3174,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
@@ -3142,6 +3188,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OMP/OPS 3.2.1 / 3.3.0.</description>
@@ -3190,6 +3237,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for 3.3.0.</description>
@@ -3203,10 +3251,12 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.3.0.</description>
@@ -3283,6 +3333,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed" />
 			<description>Update for compatibility with v3.3.</description>
@@ -3536,6 +3587,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -3552,6 +3604,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -3568,6 +3621,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="partner" />
 			<description>Release of the Form Honeypot plugin for OJS 3.2+.</description>
@@ -3628,6 +3682,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.0</version>
@@ -3636,6 +3691,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="partner"/>
 			<description>Release of the authorRequirements plugin for OJS/OMP 3.3.0</description>
@@ -3760,6 +3816,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
@@ -3773,6 +3830,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
@@ -3786,6 +3844,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release for OJS/OMP v3.2.1.</description>
@@ -3804,6 +3863,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
@@ -3817,6 +3877,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
@@ -3830,6 +3891,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This update adds translations for Finnish, Norwegian, Czech, Greek, and Vietnamese.</description>
@@ -3907,6 +3969,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
@@ -3920,6 +3983,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
@@ -3933,6 +3997,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Maintenance release for OJS/OPS/OMP 3.2.1.</description>
@@ -3951,6 +4016,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.1.0</version>
@@ -3964,6 +4030,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.1.0</version>
@@ -3977,6 +4044,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>This update adds translations for Arabic, Spanish and Ukrainian.</description>
@@ -4046,6 +4114,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -4062,6 +4131,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -4078,6 +4148,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Spanish translation added</description>
@@ -4130,6 +4201,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.2.0.0</version>
@@ -4146,6 +4218,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.2.0.0</version>
@@ -4162,6 +4235,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Settings for text alignment added</description>
@@ -4278,6 +4352,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -4285,6 +4360,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -4292,6 +4368,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed" />
 			<description>OpenGraph plugin for 3.3</description>
@@ -4374,6 +4451,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official"/>
 			<description>This release updates a theme to be compatible with OJS 3.3.0.1, fixes display of multilingual keywords on article landing page as well as displays article's license terms</description>
@@ -4469,6 +4547,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>PKP|PN for OJS 3.3.0-x.</description>
@@ -4538,6 +4617,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Release for OJS 3.2 and 3.3. Fixes a minor bug that occurred on an empty API response.</description>
@@ -4566,6 +4646,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Spanish translation added and curl replaced with Guzzle</description>
@@ -4657,7 +4738,8 @@
 			<package>https://github.com/pkp/portico/releases/download/v1_1_2-2/portico-v1_1_2-2.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.4</version>
-				<version>3.3.0.5</version><!-- Previous 3.3.x did not have flysystem sftp -->
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version><!-- Previous 3.3.x did not have flysystem sftp -->
 			</compatibility>
 			<certification type="official"/>
 			<description>Portico for OJS 3.3.x.</description>
@@ -4698,6 +4780,7 @@
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="partner"/>
 			<description>Adds support for OJS 3.3, better handling of placeholders</description>
@@ -4722,6 +4805,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>mEDRA plugin for OJS 3.3.0-x</description>
@@ -4731,6 +4815,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<compatibility application="ojs2">
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="official" />
 			<description>Bugfix release of the plugin for OJS 3.3.0</description>
@@ -4754,6 +4839,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.1</version>
@@ -4761,6 +4847,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.1</version>
@@ -4768,6 +4855,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.3</version>
 				<version>3.3.0.4</version>
 				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
 			</compatibility>
 			<certification type="reviewed" />
 			<description>OpenID plugin for OJS 3.3.0-x (first release)</description>
