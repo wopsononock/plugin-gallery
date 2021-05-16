@@ -3173,6 +3173,29 @@
 			<certification type="official"/>
 			<description>Disable site-index mails, Client-Secret and ID validation </description>
 		</release>
+		<release date="2021-05-16" version="1.1.2.17" md5="e63caf3ea23ff606e7e3b0b9d5dba9dd">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-17/orcidProfile-v1_1_2-17.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Orcid API V3.0 support </description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="defaultTranslation">
 		<name locale="en_US">Default Translation</name>
@@ -5134,4 +5157,28 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<description locale="pt_BR">Correção na filtragem por data de submissão que resultava em relatórios vazios</description>
 		</release>
 	</plugin>
+	<plugin category="importexport" product="datacite">
+		<name locale="en_US">Datacite</name>
+		<homepage>https://github.com/withanage/datacite</homepage>
+		<summary locale="en_US">This plugin allows DOI registration via Datacite</summary>
+		<description locale="en_US"></description>
+		<maintainer>
+			<name>Dulip Withanage</name>
+			<institution>Public Knowledge Project</institution>
+			<email>pkp.contact@gmail.com</email>
+		</maintainer>
+		<release date="2021-03-31" version="1.0.0.3" md5="806be4dd55f1879d1d45557072f5bdcd">
+			<package>https://github.com/withanage/datacite/releases/download/v1_0_0-4/datacite-v1_0_0-4.tar.gz</package>
+			<compatibility application="omp">
+				<version>3.1.0.0</version>
+				<version>3.1.1.0</version>
+				<version>3.1.1.1</version>
+				<version>3.1.1.2</version>
+				<version>3.1.1.3</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Initial Release of Datacite plugin for OMP 3.1.x.</description>
+		</release>
+	</plugin>
 </plugins>
+
