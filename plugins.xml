@@ -5224,7 +5224,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 		<name locale="en_US">Lucene/Solr Plugin</name>
 		<homepage>https://github.com/ojsde/lucene</homepage>
 		<summary locale="en_US">Solr/Lucene integration for OJS</summary>
-		<description locale="en_US"><![CDATA[<p>This plugins  integrates the solr/search for  OJS journals.   Integration requires <b>additional configuration</b> . Please see the <a href="https://github.com/ojsde/lucene#readme">help</a> page for configuration.</p>]]></description>		<maintainer>
+		<description locale="en_US"><![CDATA[<p>This plugins  integrates the solr/search for  OJS journals.  <b>Warning! </b> Integration requires <b>additional configuration</b>  . Please see the <a href="https://github.com/ojsde/lucene#readme">help</a> page for configuration  and we advise to test it on a test installation, before using on a production server.</p>]]></description>		<maintainer>
 			<name>Dulip Withanage</name>
 			<institution>Public Knowledge Project</institution>
 			<email>pkp.contact@gmail.com</email>
