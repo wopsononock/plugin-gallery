@@ -5229,7 +5229,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<institution>Public Knowledge Project</institution>
 			<email>pkp.contact@gmail.com</email>
 		</maintainer>
-		<release date="2021-05-23" version="1.2.0.1" md5="806be4dd55f1879d1d45557072f5bdcd">
+		<release date="2021-05-23" version="1.2.0.1" md5="1085b616bf658467304d63f71baf9cd8">
 			<package>https://github.com/ojsde/lucene/releases/download/v1_2_0-1/lucene-v1_2_0-1.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.2.1.0</version>
