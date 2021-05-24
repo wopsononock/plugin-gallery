@@ -4196,6 +4196,53 @@
 			<certification type="official" />
 			<description>This update adds translations for Arabic, Spanish and Ukrainian.</description>
 		</release>
+		<release date="2020-05-24" version="1.0.0.4" md5="b2c47b53c0182891eec1c08327f808cc">
+			<package>https://github.com/NateWr/textEditorExtras/releases/download/v1_0_0-4/textEditorExtras-v1_0_0-4.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+			</compatibility>
+			<certification type="official" />
+			<description>This update adds support for extra text editor options in the announcements form.</description>
+		</release>
 	</plugin>
 	<plugin category="blocks" product="twitterBlock">
 		<name locale="en_US">Twitter Block Plugin</name>
