@@ -5138,6 +5138,16 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official" />
 			<description>Bugfix release of the plugin for OJS 3.3.0</description>
 		</release>
+		<release date="2021-06-07" version="3.0.0.2" md5="10ef28bb21b3a83da0f26c216145ae93">
+			<package>https://github.com/pkp/medra/releases/download/v3_0_0-2/medra-v3_0_0-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the plugin for OJS 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="openid">
 		<name locale="en_US">OpenID Authentication Plugin</name>
