@@ -3773,7 +3773,7 @@
 			<email>uls-systemsdevelopment@pitt.edu</email>
 		</maintainer>
 		<release date="2021-07-22" version="3.0.0.0" md5="0c5b6c3484503615a7cbb440d88f6ea8">
-			<package></package>
+			<package>https://github.com/ulsdevteam/pkp-clamav/releases/download/v3.0.0.0/clamav-3.0.0-0.tgz</package>
 			<compatibility application="ojs2">
 				<version>3.1.1.4</version>
 				<version>3.1.2.0</version>
