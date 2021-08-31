@@ -3570,8 +3570,8 @@
 			<certification type="official"/>
 			<description>Plugin configuration enhancement </description>
 		</release>
-		<release date="2021-08-29" version="1.1.2.21" md5="b06d768ee0a3128ed15cf90b2fe51e0d">
-			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-21/orcidProfile-v1_1_2-21.tar.gz</package>
+		<release date="2021-08-31" version="1.1.2.22" md5="afed8ab2d5bec734b74c06a33e45334a">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-22/orcidProfile-v1_1_2-22.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
