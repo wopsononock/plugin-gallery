@@ -2077,6 +2077,21 @@
 			<certification type="official" />
 			<description>Compatibility release of the JATS Template plugin for OJS 3.3.0</description>
 		</release>
+		<release date="2021-09-13" version="1.0.6.0" md5="f844628e1340e6ad4a62d64eff7357b6">
+			<package>https://github.com/pkp/jatsTemplate/releases/download/v1_0_6-0/jatsTemplate-v1_0_6-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release of the JATS Template plugin for OJS 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="sword">
 		<name locale="en_US">SWORD Deposit Plugin</name>
@@ -2263,6 +2278,21 @@
 		</release>
 		<release date="2021-02-04" version="1.0.4.2" md5="8b8a59e98177f49dd923b2a3fb8be3cd">
 			<package>https://github.com/pkp/oaiJats/releases/download/v1_0_4-2/oaiJats-v1_0_4-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the OAI JATS plugin for OJS 3.3</description>
+		</release>
+		<release date="2021-09-13" version="1.0.4.3" md5="b5a3a7fc6aec1f912220a1b432c04924">
+			<package>https://github.com/pkp/oaiJats/releases/download/v1_0_4-3/oaiJats-v1_0_4-3.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.1</version>
 				<version>3.3.0.2</version>
