@@ -2649,6 +2649,22 @@
 			<certification type="official" />
 			<description>This release updates the theme to be compatible with OJS 3.3.</description>
 		</release>
+		<release date="2021-11-24" version="3.2.0.4" md5="2cd69477a80252c24c6124e5093acd02">
+			<package>https://github.com/NateWr/bootstrap3/releases/download/v3_2_0-4/bootstrap3-v3_2_0-4.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official" />
+			<description>This is a minor release to remove the .git directory from the release package. No other files were modified.</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="classic">
 		<name locale="en_US">Classic</name>
