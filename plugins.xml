@@ -3758,8 +3758,8 @@
 			<certification type="official"/>
 			<description>Plugin configuration enhancement </description>
 		</release>
-		<release date="2021-11-15" version="1.1.2.23" md5="7ddf01f309548b1c987a940e103db071">
-			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-23/orcidProfile-v1_1_2-23.tar.gz</package>
+		<release date="2021-11-28" version="1.1.2.24" md5="8a701048412e766618773750ecd7c60a">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-24/orcidProfile-v1_1_2-24.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
@@ -3785,8 +3785,8 @@
 			<certification type="official"/>
 			<description>Reviewer credit support</description>
 		</release>
-		<release date="2021-11-28" version="1.1.2.24" md5="8a701048412e766618773750ecd7c60a">
-			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-24/orcidProfile-v1_1_2-24.tar.gz</package>
+		<release date="2021-11-29" version="1.1.2.25" md5="0acd78aecd0023114bf269a68fbd162b">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-25/orcidProfile-v1_1_2-25.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
