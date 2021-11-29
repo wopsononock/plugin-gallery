@@ -4456,6 +4456,44 @@
 			<certification type="partner" />
 			<description>Release of the Better Password plugin for OJS/OMP 3.2.1.</description>
 		</release>
+		<release date="2021-11-29" version="1.2.0.0" md5="44c45dd2b39b2a4c09b0c75327e7f5f6">
+			<package>https://github.com/ulsdevteam/pkp-betterPassword/releases/download/v1.2.0-0/betterPassword.tgz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="partner" />
+			<description>Release of the Better Password plugin for OJS/OMP/OPS 3.3</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="sitesearch">
 		<name locale="en_US">Sitesearch</name>
