@@ -6381,6 +6381,21 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official"/>
 			<description>Initial Release of Datacite plugin for OMP 3.1.x.</description>
 		</release>
+		<release date="2021-12-11" version="1.0.0.5" md5="845fb6cc45383125de994f12d1256398">
+			<package>https://github.com/withanage/datacite/releases/download/v1_0_0-5/datacite-v1_0_0-5.tar.gz</package>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Datacite plugin for OMP 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="browseBySection">
 		<name locale="en_US">Browse By Section Plugin</name>
