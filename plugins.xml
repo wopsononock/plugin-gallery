@@ -3822,6 +3822,25 @@
 			<certification type="official"/>
 			<description>Reviewer credit support</description>
 		</release>
+		<release date="2022-01-17" version="1.1.2.26" md5="195e409b0b8a5b8e0a58e770d012bb3f">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-26/orcidProfile-v1_1_2-26.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Bug fix release </description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="defaultTranslation">
 		<name locale="en_US">Default Translation</name>
