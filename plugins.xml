@@ -6175,6 +6175,36 @@
 			<certification type="partner"/>
 			<description>Adds support for OJS 3.3, better handling of placeholders</description>
 		</release>
+		<release date="2022-02-14" version="1.0.0.12" md5="34efcef88c72ff22a5b4282d8de98545">
+			<package>https://github.com/withanage/ror/releases/download/v1_0_0-12/ror-v1_0_0-12.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="partner"/>
+			<description>Adds support for OPS 3.3</description>
+		</release>
 	</plugin>
 	<plugin category="importexport" product="medra">
 		<name locale="en_US">DOI to mEDRA xml export and registration plugin</name>
