@@ -565,7 +565,7 @@
 	</plugin>
 	<plugin category="generic" product="plagiarism">
 		<name locale="en_US">iThenticate</name>
-		<homepage>https://github.com/asmecher/plagiarism</homepage>
+		<homepage>https://github.com/pkp/plagiarism</homepage>
 		<summary locale="en_US">This plugin permits automatic submission of uploaded content to the iThenticate service for plagiarism checking.</summary>
 		<description locale="en_US"><![CDATA[<p>This plugin permits automatic submission of uploaded content to the <a href="http://www.ithenticate.com/" target="_new">iThenticate service</a> for plagiarism checking.</p><p>See the README document included in this plugin for installation instructions.</p>]]></description>
 		<maintainer>
@@ -661,6 +661,31 @@
 			</compatibility>
 			<certification type="official" />
 			<description>Release of the iThenticate plugin for OJS/OMP 3.3.0.</description>
+		</release>
+		<release date="2022-01-26" version="1.0.5.0" md5="06c4d79ed982f6212b65f1cb69981df5">
+			<package>https://github.com/pkp/plagiarism/releases/download/v1_0_5-0/plagiarism-v1_0_5-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Adds new translations and bug fixes.</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="coins">
@@ -1358,8 +1383,8 @@
 		<summary locale="en_US">This plugin integrates the shariff solution for social media buttons in OJS and OMP.</summary>
 		<description locale="en_US"><![CDATA[This plugin integrates the shariff solution(<a href="https://github.com/heiseonline/shariff" target="_blank">https://github.com/heiseonline/shariff</a>) to your website, allowing you to add social media buttons to your journal without compromising the privacy of website users.]]></description>
 		<maintainer>
-			<name>Svantje Lilienthal</name>
-			<institution>Freie Universität Berlin</institution>
+			<name>e-Publishing Team FU Berlin</name>
+			<institution>Universitätsbibliothek/Cedis, Freie Universität Berlin</institution>
 			<email>e-publishing@cedis.fu-berlin.de</email>
 		</maintainer>
 		<release date="2017-12-04" version="1.0.0.0" md5="e9f2bc26611a4d5632c91257c2edc73f">
@@ -1390,6 +1415,16 @@
 				<version>3.1.1.4</version>
 			</compatibility>
 			<certification type="partner"/><description>Release of the Shariff plugin for OJS 3.0.0.</description>
+		</release>
+		<release date="2021-12-08" version="3.3.0.0" md5="8902638153d04e16007601099843cdd3">
+			<package>https://github.com/ojsde/shariff/releases/download/v3_3_0/shariff-3_3_0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="partner"/><description>Release of the Shariff plugin for OJS 3.3.0.</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="addThis">
@@ -3758,33 +3793,6 @@
 			<certification type="official"/>
 			<description>Plugin configuration enhancement </description>
 		</release>
-		<release date="2021-11-15" version="1.1.2.23" md5="7ddf01f309548b1c987a940e103db071">
-			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-23/orcidProfile-v1_1_2-23.tar.gz</package>
-			<compatibility application="ojs2">
-				<version>3.3.0.0</version>
-				<version>3.3.0.1</version>
-				<version>3.3.0.2</version>
-				<version>3.3.0.3</version>
-				<version>3.3.0.4</version>
-				<version>3.3.0.5</version>
-				<version>3.3.0.6</version>
-				<version>3.3.0.7</version>
-				<version>3.3.0.8</version>
-			</compatibility>
-			<compatibility application="ops">
-				<version>3.3.0.0</version>
-				<version>3.3.0.1</version>
-				<version>3.3.0.2</version>
-				<version>3.3.0.3</version>
-				<version>3.3.0.4</version>
-				<version>3.3.0.5</version>
-				<version>3.3.0.6</version>
-				<version>3.3.0.7</version>
-				<version>3.3.0.8</version>
-			</compatibility>
-			<certification type="official"/>
-			<description>Reviewer credit support</description>
-		</release>
 		<release date="2021-11-28" version="1.1.2.24" md5="8a701048412e766618773750ecd7c60a">
 			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-24/orcidProfile-v1_1_2-24.tar.gz</package>
 			<compatibility application="ojs2">
@@ -3811,6 +3819,52 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>Reviewer credit support</description>
+		</release>
+		<release date="2021-11-29" version="1.1.2.25" md5="0acd78aecd0023114bf269a68fbd162b">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-25/orcidProfile-v1_1_2-25.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Reviewer credit support</description>
+		</release>
+		<release date="2022-01-17" version="1.1.2.26" md5="195e409b0b8a5b8e0a58e770d012bb3f">
+			<package>https://github.com/pkp/orcidProfile/releases/download/v1_1_2-26/orcidProfile-v1_1_2-26.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Bug fix release </description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="defaultTranslation">
@@ -4194,6 +4248,18 @@
 			<institution>University of Pittsburgh</institution>
 			<email>uls-systemsdevelopment@pitt.edu</email>
 		</maintainer>
+		<release date="2022-01-04" version="1.0.2.1" md5="be0c232acab4777cab1e89976473ccb8">
+			<package>https://github.com/ulsdevteam/pkp-emailIssueToc/releases/download/v1.0.2-1/emailIssueToc-1.0.2.1.tgz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<certification type="partner" />
+			<description>Release of the emailIssueToc plugin for OJS 3.2, with English, German, and Italian locales.</description>
+		</release>
 		<release date="2020-06-29" version="1.0.1.0" md5="e8e758d90c484fedff207e24152adf2c">
 			<package>https://github.com/ulsdevteam/pkp-emailIssueToc/releases/download/v1.0.1-0/emailIssueToc-1.0.1.0.tgz</package>
 			<compatibility application="ojs2">
@@ -6147,6 +6213,36 @@
 			<certification type="partner"/>
 			<description>Adds support for OJS 3.3, better handling of placeholders</description>
 		</release>
+		<release date="2022-02-14" version="1.0.0.12" md5="34efcef88c72ff22a5b4282d8de98545">
+			<package>https://github.com/withanage/ror/releases/download/v1_0_0-12/ror-v1_0_0-12.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="partner"/>
+			<description>Adds support for OPS 3.3</description>
+		</release>
 	</plugin>
 	<plugin category="importexport" product="medra">
 		<name locale="en_US">DOI to mEDRA xml export and registration plugin</name>
@@ -6419,6 +6515,21 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official"/>
 			<description>Initial Release of Datacite plugin for OMP 3.1.x.</description>
 		</release>
+		<release date="2021-12-11" version="1.0.0.5" md5="845fb6cc45383125de994f12d1256398">
+			<package>https://github.com/withanage/datacite/releases/download/v1_0_0-5/datacite-v1_0_0-5.tar.gz</package>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Datacite plugin for OMP 3.3.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="browseBySection">
 		<name locale="en_US">Browse By Section Plugin</name>
@@ -6564,6 +6675,27 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<description locale="en_US">Fixes plugin gallery problem, upgrades interface and fixes minor problems</description>
 			<description locale="es_ES">Corrige problema con la galería de módulos, actualiza la interfaz y corrige problemas menores</description>
 			<description locale="pt_BR">Corrige problema com a galeria de plugins, atualiza interface e corrige menores problemas</description>
+		</release>
+		<release date="2022-01-14" version="1.4.15.0" md5="5cee20e2239bd6f91830f791dbb60dd9">
+			<package>https://github.com/lepidus/scieloSubmissionsReport/releases/download/v1.4.15.0/scieloSubmissionsReport.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description locale="en_US">Fixes bad request issue on public site pages.</description>
+			<description locale="es_ES">Soluciona el problema de solicitud incorrecta en las páginas del sitio público.</description>
+			<description locale="pt_BR">Corrige problema de má requisição em páginas públicas do site.</description>
 		</release>
 		<release date="2021-07-22" version="2.0.2.0" md5="3a790d81dadb7463fe01cab0a37ab02b">
 			<package>https://github.com/lepidus/scieloSubmissionsReport/releases/download/v2.0.2.0/scieloSubmissionsReport.tar.gz</package>
