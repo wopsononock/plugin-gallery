@@ -4523,7 +4523,7 @@
 			<description>Release of the Better Password plugin for OJS/OMP 3.2.1.</description>
 		</release>
 		<release date="2021-11-29" version="1.2.0.0" md5="b198dff67a8baab666e6baf181942d31">
-			<package>https://github.com/ulsdevteam/pkp-betterPassword/releases/download/v1.2.0-0/betterPassword.tgz</package>
+			<package>https://github.com/ulsdevteam/pkp-betterPassword/releases/download/v1.2.0-0/betterPassword-v1.2.0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
