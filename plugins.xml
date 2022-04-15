@@ -4946,6 +4946,8 @@
 				<version>3.3.0.6</version>
 				<version>3.3.0.7</version>
 				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.0</version>
@@ -4957,6 +4959,8 @@
 				<version>3.3.0.6</version>
 				<version>3.3.0.7</version>
 				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
 			</compatibility>
 			<compatibility application="ops">
 				<version>3.3.0.0</version>
@@ -4968,6 +4972,8 @@
 				<version>3.3.0.6</version>
 				<version>3.3.0.7</version>
 				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
 			</compatibility>
 			<certification type="partner" />
 			<description>Release of the Akismet plugin for OJS/OMP/OPS 3.3</description>
