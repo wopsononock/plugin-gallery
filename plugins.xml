@@ -4617,7 +4617,7 @@
 				<version>3.3.0.10</version>
 			</compatibility>
 			<certification type="partner" />
-			<description>Release of the Editorial Bio plugin for OJS 3.3<description>
+			<description>Release of the Editorial Bio plugin for OJS 3.3</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="clamav">
