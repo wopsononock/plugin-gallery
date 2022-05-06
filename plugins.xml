@@ -4626,7 +4626,7 @@
 			<certification type="partner" />
 			<description>Release of the ClamAV plugin for OJS 3.1/3.2.</description>
 		</release>
-		<release date="2022-05-06" version="4.0.0.0" md5="75e47f3a9f8df85e1707861773cd2273">
+		<release date="2022-05-06" version="4.0.0.0" md5="ebf8f40335654444abe057912d49bff5">
 			<package>https://github.com/ulsdevteam/pkp-clamav/releases/download/v4.0.0-0/clamav-4.0.0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
