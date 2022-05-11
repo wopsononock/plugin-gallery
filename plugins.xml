@@ -7514,5 +7514,49 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<description locale="pt_BR">Esta é a primeira versão deste plugin a ser enviada para a galeria de plugins da PKP. Sua principal funcionalidade é exibir arquivos EPUBs embutidos nas publicações.</description>
 		</release>
 	</plugin>
+	<plugin category="generic" product="inlineHtmlGalley">
+		<name locale="en_US">Inline Html Galley</name>
+		<homepage>https://github.com/ulsdevteam/inlineHtmlGalley</homepage>
+		<summary locale="en_US">This plugin provides inline display of article galleys.</summary>
+		<description locale="en_US">This plugin provides inline display of article galleys. It replaces the default HTML Article Galley plugin's use of an iframe to deliver the HTML Galleys.</description>
+		<maintainer>
+			<name>University Library System</name>
+			<institution>University of Pittsburgh</institution>
+			<email>uls-systemsdevelopment@pitt.edu</email>
+		</maintainer>
+		<release date="2022-05-10" version="1.2.0.0" md5="036171310fcd92f4da445fa7fa1f356a">
+			<package>https://github.com/ulsdevteam/inlineHtmlGalley/releases/download/v1.2.0-0/inlineHtmlGalley-1.2.0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.1.4</version>
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+				<version>3.2.0.0</version>
+				<version>3.2.0.1</version>
+				<version>3.2.0.2</version>
+				<version>3.2.0.3</version>
+				<version>3.2.1.0</version>
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+			</compatibility>
+			<certification type="partner" />
+			<description>Release of the inlineHtmlGalley plugin for OJS 3.x </description>
+		</release>
+	</plugin>
 </plugins>
 
