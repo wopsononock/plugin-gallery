@@ -5907,6 +5907,53 @@
 			<certification type="official" />
 			<description>This update adds translations for Finnish, Norwegian, Czech, Greek, and Vietnamese.</description>
 		</release>
+		<release date="2022-08-04" version="1.0.0.3" md5="535449b1a2ee9b3b19306125f74e3dd7">
+			<package>https://github.com/pkp/controlPublicFiles/releases/download/v1_0_0-3/controlPublicFIles-v1_0_0-3.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<certification type="official" />
+			<description>This is a bugfix release for compatibility with recent PHP releases.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="textEditorExtras">
 		<name locale="en_US">Text Editor Extras</name>
