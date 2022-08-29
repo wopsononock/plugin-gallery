@@ -8009,7 +8009,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 		<homepage>https://github.com/lepidus/plaudit</homepage>
 		<summary locale="en_US">This plugin adds the Plaudit widget to the submission details on the submission's landing page.</summary>
 		<summary locale="pt_BR">Este plugin adiciona o widget Plaudit aos detalhes na página pública da submissão.</summary>
-		<summary locale="es_ES">Este complemento agrega el widget Plaudit a los detalles de envío en el sitio público.</summary>
+		<summary locale="es_ES">Este módulo agrega el widget Plaudit a los detalles de envío en el sitio público.</summary>
 		<description locale="en_US"><![CDATA[<p>This plugin adds the Plaudit widget to the submission details on the submission's landing page.</p>]]></description>
 		<description locale="pt_BR"><![CDATA[<p>Este plugin adiciona o widget Plaudit aos detalhes na página pública da submissão.</p>]]></description>
 		<description locale="es_ES"><![CDATA[<p>Este complemento agrega el widget Plaudit a los detalles de envío en el sitio público.</p>]]></description>
@@ -8038,6 +8038,104 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<description locale="en_US">This is the first release of this plugin to be sent to PKP Plugin Gallery. Its main functionality is to add the Plaudit widget to the submission details on the submission's landing page.</description>
 			<description locale="es_ES">Esta es la primera versión de este módulo que se envía a la Galería de módulos de PKP. Su funcionalidad principal es agregar el widget Plaudit a los detalles de envío en el sitio web público.</description>
 			<description locale="pt_BR">Esta é a primeira versão deste plugin a ser enviada para a galeria de plugins da PKP. Sua principal funcionalidade é adicionar o widget Plaudit aos detalhes na página pública da submissão.</description>
+		</release>
+		<release date="2022-08-10" version="1.0.2.0" md5="e96035bb35efcb12aaaf5fa3bf18e41a">
+			<package>https://github.com/lepidus/plaudit/releases/download/v1.0.2/plaudit.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<certification type="reviewed" />
+			<description locale="en_US">This release adds support for OJS and OMP in versions 3.3.0-x.</description>
+			<description locale="es_ES">Esta versión agrega compatibilidad con OJS y OMP en las versiones 3.3.0-x.</description>
+			<description locale="pt_BR">Esta versão adiciona suporte para o OJS e OMP nas versões 3.3.0-x.</description>
+		</release>
+		<release date="2022-08-24" version="1.0.3.0" md5="6dcf36db86be9d335a198bf39eab9699">
+			<package>https://github.com/lepidus/plaudit/releases/download/v1.0.3/plaudit.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<certification type="reviewed" />
+			<description locale="en_US">This is the first version of the plugin compatible with OJS and OMP, in versions 3.3.0-x. It brings usability improvements over the previous version.</description>
+			<description locale="es_ES">Esta es la primera versión del módulo compatible con OJS y OMP, en las versiones 3.3.0-x. Trae mejoras de usabilidad en comparación con la versión anterior.</description>
+			<description locale="pt_BR">Esta é a primeira versão do plugin compatível com OJS e OMP, nas versões 3.3.0-x. Traz melhorias de usabilidade em relação à versão anterior.</description>
 		</release>
 	</plugin>
 </plugins>
