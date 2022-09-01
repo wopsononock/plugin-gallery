@@ -2478,7 +2478,7 @@
 		</release>
 	</plugin>
 	<plugin category="generic" product="sword">
-		<name locale="en_US">SWORD Deposit Plugin</name>
+		<name locale="en_US">SWORD Client Plugin</name>
 		<homepage>https://github.com/asmecher/sword/</homepage>
 		<summary locale="en_US">Permits the use of the SWORD protocol to deposit documents from OJS into other systems.</summary>
 		<description locale="en_US"><![CDATA[<p>This plugin permits the use of the <a href="http://swordapp.org/sword-v2/">SWORDv2 protocol</a> to allow OJS to deposit documents into other systems.</p><p>The deposit can be performed manually, automatically upon acceptance, and manually by the author.</p>]]></description>
@@ -2497,7 +2497,7 @@
 				<version>3.1.1.2</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Initial release of the SWORD plugin.</description>
+			<description>Initial release of the SWORD client plugin.</description>
 		</release>
 		<release date="2018-09-25" version="1.0.1.0" md5="3c96e83eeba807f5b2bad9aa867b43e9">
 			<package>https://github.com/asmecher/sword/releases/download/v1.0.1-0/sword-v1.0.1-0.tar.gz</package>
@@ -2510,7 +2510,7 @@
 				<version>3.1.1.4</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Maintenance release of the SWORD plugin.</description>
+			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
 		<release date="2019-03-05" version="1.0.1.1" md5="4df54a126d6d1c7181402bf11dbb360a">
 			<package>https://github.com/asmecher/sword/releases/download/v1.0.1-1/sword-v1.0.1-1.tar.gz</package>
@@ -2523,7 +2523,7 @@
 				<version>3.1.1.4</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Maintenance release of the SWORD plugin.</description>
+			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
 		<release date="2019-03-04" version="1.0.2.0" md5="ee1aab70308821d1a3f5ee5ecbb7bdc1">
 			<package>https://github.com/asmecher/sword/releases/download/v1.0.2-0/sword-v1.0.2-0.tar.gz</package>
@@ -2535,7 +2535,7 @@
 				<version>3.1.2.4</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Maintenance release of the SWORD plugin.</description>
+			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
 		<release date="2020-03-05" version="1.0.2.1" md5="208a5e36a01268477140a77eb4d24f77">
 			<package>https://github.com/pkp/sword/releases/download/v1.0.2-1/sword-v1.0.2.1.tar.gz</package>
@@ -2546,7 +2546,7 @@
 				<version>3.2.0.3</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Maintenance release of the SWORD plugin.</description>
+			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
 		<release date="2020-06-10" version="1.0.3.0" md5="77baca5ec23eaddaccdacdb50708a9ac">
 			<package>https://github.com/pkp/sword/releases/download/v1.0.3-0/sword-v1.0.3-0.tar.gz</package>
@@ -2562,7 +2562,7 @@
 				<version>3.2.1.4</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Maintenance release of the SWORD plugin.</description>
+			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
 		<release date="2020-06-19" version="1.0.4.1" md5="db0a70d6aadaba6b2b7a60fcd3046f05">
 			<package>https://github.com/pkp/sword/releases/download/v1_0_4-1/sword-v1_0_4-1.tar.gz</package>
@@ -2574,7 +2574,7 @@
 				<version>3.2.1.4</version>
 			</compatibility>
 			<certification type="official" />
-			<description>Maintenance release of the SWORD plugin.</description>
+			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
 	</plugin>
 	<plugin category="oaiMetadataFormats" product="oaiJats">
