@@ -3544,6 +3544,25 @@
 			<certification type="official"/>
 			<description>This release updates texture plugin compatible with OJS 3.3.0.0 and after versions </description>
 		</release>
+		<release date="2021-09-13" version="2.4.3.9" md5="b9f9ab806df0e938aafcb855d65b37b9">
+			<package>https://github.com/pkp/texture/releases/download/v2_4_3-9/texture-v2_4_3-9.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+			</compatibility>
+			<certification type="official"/>
+			<description><![CDATA[<p>Version 2.4.3.9 adds following enhancements to the texture plugin for OJS 3.3</p><ul><li>Create galley from XML files for JATS XML files</li><li>By galley creation all dependent files are copied to the galley</li><li>By user selection following metadata blocks are added or updated to the jats metadata section<ul><li>Journal metadata</li><li>Publication history (recieved, accepted and published date )</li><li>published date can be either taken over or modified in the create galley modal</li><li>First page and last page of the article in a volume</li><li>Create the cc-by license block inserted in the journal. Additionally, If a ported cc-by url is added it will be mapped accordingly.</li></ul></li></ul>]]></description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="crossrefReferenceLinking">
 		<name locale="en_US">Crossref Reference Linking Plugin</name>
