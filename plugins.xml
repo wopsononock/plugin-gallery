@@ -3616,7 +3616,7 @@
 			<certification type="official"/>
 			<description>This release updates texture plugin compatible with OJS 3.3.0.0 and after versions </description>
 		</release>
-		<release date="2021-09-13" version="2.4.3.9" md5="b9f9ab806df0e938aafcb855d65b37b9">
+		<release date="2021-09-21" version="2.4.3.9" md5="deb6097604057d2a327878cb064bfd01">
 			<package>https://github.com/pkp/texture/releases/download/v2_4_3-9/texture-v2_4_3-9.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
