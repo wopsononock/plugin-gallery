@@ -3364,6 +3364,27 @@
 			<certification type="official" />
 			<description>This is a minor release to remove the .git directory from the release package. No other files were modified.</description>
 		</release>
+		<release date="2023-02-03" version="3.2.0.5" md5="8dff6f845627d1bfee07440d71483f43">
+			<package>https://github.com/pkp/bootstrap3/releases/download/v3_2_0-5/bootstrap3-v3_2_0-5.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+			</compatibility>
+			<certification type="official" />
+			<description>This is a minor release to improve PHP8.1 compatibility.</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="classic">
 		<name locale="en_US">Classic</name>
