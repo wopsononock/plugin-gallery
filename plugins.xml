@@ -8516,6 +8516,18 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official" />
 			<description>Bugfix release of the plugin for OJS 3.3.0</description>
 		</release>
+		<release date="2023-02-14" version="3.0.0.3" md5="5f0a010b63616402f9ca4afc30b24993">
+			<package>https://github.com/pkp/medra/releases/download/v3_0_0-3/medra-v3_0_0-3.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Collection element and unstructured citation list, for OJS 3.3.0-14</description>
+		</release>
 	</plugin>
 	<plugin category="pubIds" product="ark">
 		<name locale="en_US">ARK</name>
