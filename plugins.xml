@@ -689,6 +689,20 @@
 			<certification type="official" />
 			<description>Adds new translations to the previous release.</description>
 		</release>
+		<release date="2023-03-23" version="2.0.4.0" md5="3cb1e5598c1cdd8360031c1181ab8ec5">
+			<package>https://github.com/asmecher/backup/releases/download/v2_0_3-0/backup-v2_0_4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release for OJS/OMP/OPS 3.4.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="plagiarism">
 		<name locale="en">iThenticate</name>
