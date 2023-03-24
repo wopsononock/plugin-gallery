@@ -190,6 +190,17 @@
 			<certification type="official" />
 			<description>Release of the Hypothes.is plugin for OJS/OPS 3.3.</description>
 		</release>
+		<release date="2023-03-23" version="1.0.5.0" md5="346a4613e0383ace4426ea9dacf3c586">
+			<package>https://github.com/asmecher/hypothesis/releases/download/v1_0_5-0/hypothesis-v1_0_5-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Release of the Hypothes.is plugin for OJS/OPS 3.4.0.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="shibboleth">
 		<name locale="en">Shibboleth</name>
