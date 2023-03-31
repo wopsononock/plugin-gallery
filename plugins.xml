@@ -3328,6 +3328,14 @@
 			<certification type="official" />
 			<description>Bugfix release of the OAI JATS plugin for OJS 3.3</description>
 		</release>
+		<release date="2023-03-31" version="1.0.5.0" md5="6dac9f370d7a41252a48319195d87786">
+			<package>https://github.com/pkp/oaiJats/releases/download/v1_0_5-0/oaiJats-v1_0_5-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the OAI JATS plugin for OJS 3.4</description>
+		</release>
 	</plugin>
 	<plugin category="blocks" product="keywordCloud">
 		<name locale="en">Keyword Cloud Plugin</name>
