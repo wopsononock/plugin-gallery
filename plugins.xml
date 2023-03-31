@@ -3054,6 +3054,14 @@
 			<certification type="official" />
 			<description>Compatibility release of the JATS Template plugin for OJS 3.3.0</description>
 		</release>
+		<release date="2023-03-31" version="1.0.7.1" md5="7d2b59d87421281db11666c323865ed7">
+			<package>https://github.com/pkp/jatsTemplate/releases/download/v1_0_7-1/jatsTemplate-v1_0_7-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release of the JATS Template plugin for OJS 3.4.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="sword">
 		<name locale="en">SWORD Client Plugin</name>
