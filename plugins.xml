@@ -9299,7 +9299,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<description>Browse By Section for OJS 3.3 (first release)</description>
 		</release>
 		<release date="2023-04-06" version="1.2.1.0" md5="4eb61422962e14e767188283ae24cf34">
-			<package>https://github.com/pkp/browseBySection/releases/download/v1_2_1_0/browseBySection-v1_2_1_0.tar.gz</package>
+			<package>https://github.com/pkp/browseBySection/releases/download/v1_2_1-0/browseBySection-v1_2_1-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.4.0.0</version>
 			</compatibility>
