@@ -7732,7 +7732,7 @@
 			<description>This update adds support for extra text editor options in the announcements form.</description>
 		</release>
 		<release date="2023-04-11" version="1.0.1.0" md5="82cccfd195c4a09aa804a89f44172128">
-			<package>https://github.com/NateWr/textEditorExtras/releases/download/v1_0_1-0/textEditorExtras-v1_0_1-0.tar.gz</package>
+			<package>https://github.com/pkp/textEditorExtras/releases/download/v1_0_1-0/textEditorExtras-v1_0_1-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.4.0.0</version>
 			</compatibility>
