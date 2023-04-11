@@ -975,6 +975,14 @@
 			<certification type="official" />
 			<description>Release 1.0.3-2 of the COinS plugin for OJS 3.2.1/3.3.0.</description>
 		</release>
+		<release date="2023-04-11" version="1.0.4.0" md5="a2c7751f4aff5360c54172f081cc254e">
+			<package>https://github.com/pkp/coins/releases/download/v1.0.4-0/coins-v1.0.4-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release for OJS 3.4.0</description>
+		</release>
 	</plugin>
 	<plugin category="importexport" product="quickSubmit">
 		<name locale="en">QuickSubmit</name>
