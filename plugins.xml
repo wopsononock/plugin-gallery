@@ -3723,6 +3723,14 @@
 			<certification type="official" />
 			<description>This is a minor release to improve PHP8.1 compatibility.</description>
 		</release>
+		<release date="2023-04-11" version="3.3.0.0" md5="8b4650bbb1699374913129fafc301057">
+			<package>https://github.com/pkp/bootstrap3/releases/download/v3_3_0-0/bootstrap3-v3_3_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release for OJS 3.4.0-x</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="classic">
 		<name locale="en">Classic</name>
