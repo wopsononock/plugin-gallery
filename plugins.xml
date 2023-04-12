@@ -1866,6 +1866,17 @@
 			<certification type="official" />
 			<description>Piwik release for OJS/OMP 3.3.0</description>
 		</release>
+		<release date="2023-04-11" version="1.0.5.0" md5="7c71a5a8a33f192a7d38919faed7111b">
+			<package>https://github.com/pkp/piwik/releases/download/v1_0_5-0/piwik-v1_0_5-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Matomo/Piwik release for OJS/OMP 3.4.0</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="shariff">
 		<name locale="en">Shariff Plugin</name>
