@@ -8979,6 +8979,7 @@
 		<summary locale="en">Allows DOI export in ONIX4DOI format and the registration with mEDRA.</summary>
 		<summary locale="en_US">Allows DOI export in ONIX4DOI format and the registration with mEDRA.</summary>
 		<description locale="en"><![CDATA[<p>The mEDRA plugin enables the export of issue, article and galley metadata in ONIX4DOI format and
+the registration of DOIs with mEDRA.</p>]]></description>
 		<description locale="en_US"><![CDATA[<p>The mEDRA plugin enables the export of issue, article and galley metadata in ONIX4DOI format and
 the registration of DOIs with mEDRA.</p>]]></description>
 		<maintainer>
