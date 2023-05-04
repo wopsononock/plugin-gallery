@@ -9055,6 +9055,18 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official" />
 			<description>Collection element and unstructured citation list, for OJS 3.3.0-14</description>
 		</release>
+		<release date="2023-05-04" version="3.0.0.4" md5="12ff4299466a749c3acb075d518042b6">
+			<package>https://github.com/pkp/medra/releases/download/v3_0_0-4/medra-v3_0_0-4.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+			</compatibility>
+			<certification type="official" />
+			<description>No contributors, subtitle element, different schema location for test and production</description>
+		</release>
 	</plugin>
 	<plugin category="pubIds" product="ark">
 		<name locale="en">ARK</name>
