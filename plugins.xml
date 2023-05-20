@@ -7225,8 +7225,7 @@
 			<description>Updated for OJS/OMP 3.3 compatibility and PHP 8.0 support</description>
 		</release>
 		<release date="2023-05-17" version="2.0.0.0" md5="56a6825b9b6e359901e146af67a4d9ce">
-			<package>https://github.com/pkp/authorRequirements/releases/download/v2.0.0-0/authorRequirements-v2.0.0-0.tar.gz
-			</package>
+			<package>https://github.com/pkp/authorRequirements/releases/download/v2.0.0-0/authorRequirements-v2.0.0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.4.0.0</version>
 			</compatibility>
