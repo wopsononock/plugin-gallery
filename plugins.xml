@@ -4715,6 +4715,14 @@
 			<certification type="official" />
 			<description>Bugfix release of the plugin for OJS 3.3.0</description>
 		</release>
+		<release date="2023-07-17" version="2.0.0.0" md5="d4b77aa8e32615cc5b71805e5cd97c7d">
+			<package>https://github.com/pkp/crossrefReferenceLinking/releases/download/v2_0_0-0/crossrefReferenceLinking-v2_0_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Maintenance release of the plugin for OJS 3.4.0</description>
+		</release>
 	</plugin>
 	<plugin category="themes" product="immersion">
 		<name locale="en">Immersion</name>
@@ -5938,6 +5946,17 @@
 			</compatibility>
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.3.0.</description>
+		</release>
+		<release date="2023-07-17" version="2.0.0.0" md5="a026dbd79faa6215b12db204c5e72b85">
+			<package>hhttps://github.com/pkp/paperbuzz/releases/download/v2_0_0-0/paperbuzz-v2_0_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.4.0.0</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.4.0.0</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Maintenance release for OJS/OPS 3.4</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="openAIRE">
