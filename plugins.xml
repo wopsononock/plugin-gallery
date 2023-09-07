@@ -11410,7 +11410,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<institution>TIB: German National Library of Science and Technology</institution>
 			<email>dulip.withanage@gmail.com</email>
 		</maintainer>
-		<release date="2023-09-07" version="3.3.4." md5="526cecc01f4bd9018244994cd2e89160">
+		<release date="2023-09-07" version="3.3.3.4" md5="526cecc01f4bd9018244994cd2e89160">
 			<package>https://github.com/withanage/conference/releases/download/v3_3_0-4/conference-v3_3_0-4.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.3.0.0</version>
