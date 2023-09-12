@@ -11418,5 +11418,13 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="partner"/>
 			<description locale="en_US">Public release</description>
 		</release>
+		<release date="2023-09-12" version="3.3.3.5" md5="f9bb51f9fc681fd7c0c83428afdd4fd0">
+			<package>https://github.com/withanage/conference/releases/download/v3_3_0-5/conference-v3_3_0-5.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="partner"/>
+			<description locale="en_US">Public release</description>
+		</release>
 	</plugin>
 </plugins>
