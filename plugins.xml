@@ -11488,8 +11488,8 @@ the registration of DOIs with mEDRA.</p>]]></description>
 		<name locale="en">Conference publishing</name>
 		<name locale="en_US">Conference publishing</name>
 		<homepage>https://github.com/withanage/conference</homepage>
-		<summary locale="en">ORCiD integration for users and authors</summary>
-		<summary locale="en_US">ORCiD integration for users and authors</summary>
+		<summary locale="en">Enables conference support for OJS</summary>
+		<summary locale="en_US">Enables conference support for OJS</summary>
 		<description locale="en">
 			<![CDATA[<p>Enables conferences to be hosted in OJS. When enabled, conference-related metadata gets added automatically and the backend and frontend will be changed to reflect conference  publication software</p>]]></description>
 		<description locale="en_US">
