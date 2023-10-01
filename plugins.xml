@@ -6326,6 +6326,17 @@
 			<certification type="official"/>
 			<description>Maintenance release for OJS/OPS 3.3.0.</description>
 		</release>
+		<release date="2023-10-01" version="1.0.3.2" md5="940c73ec5f4092ad1eb7d9a8deee987b">
+			<package>https://github.com/pkp/paperbuzz/releases/download/v1_0_3-2/paperbuzz-v1_0_3-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="official"/>
+			<description>Bugfix release for OJS/OPS 3.3.0.</description>
+		</release>
 		<release date="2023-07-17" version="2.0.0.0" md5="a026dbd79faa6215b12db204c5e72b85">
 			<package>https://github.com/pkp/paperbuzz/releases/download/v2_0_0-0/paperbuzz-v2_0_0-0.tar.gz</package>
 			<compatibility application="ojs2">
