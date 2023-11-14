@@ -9917,6 +9917,30 @@
 			<description>Adds support for OPS 3.3</description>
 		</release>
 	</plugin>
+	<plugin category="generic" product="medra">
+		<name locale="en">DOI to mEDRA XML export and registration plugin</name>
+		<name locale="en_US">DOI to mEDRA XML export and registration plugin</name>
+		<homepage>https://github.com/pkp/medra/</homepage>
+		<summary locale="en">Allows DOI export in ONIX4DOI format and the registration with mEDRA.</summary>
+		<summary locale="en_US">Allows DOI export in ONIX4DOI format and the registration with mEDRA.</summary>
+		<description locale="en"><![CDATA[<p>The mEDRA plugin enables the export of issue and article metadata in ONIX4DOI format and
+the registration of DOIs with mEDRA.</p>]]></description>
+		<description locale="en_US"><![CDATA[<p>The mEDRA plugin enables the export of issue and article metadata in ONIX4DOI format and
+the registration of DOIs with mEDRA.</p>]]></description>
+		<maintainer>
+			<name>Public Knowledge Project</name>
+			<institution>Public Knowledge Project</institution>
+			<email>pkp.contact@gmail.com</email>
+		</maintainer>
+		<release date="2023-11-14" version="4.0.0.0" md5="e6dda0719199564b29cf0dda087e8892">
+			<package>https://github.com/pkp/medra/releases/download/v4_0_0-0/medra-v4_0_0-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>mEDRA plugin for OJS 3.4.0-x</description>
+		</release>
+	</plugin>
 	<plugin category="importexport" product="medra">
 		<name locale="en">DOI to mEDRA xml export and registration plugin</name>
 		<name locale="en_US">DOI to mEDRA xml export and registration plugin</name>
