@@ -3076,6 +3076,65 @@
 			<certification type="official" />
 			<description>Maintenance release of the custom header plugin for OJS/OMP/OPS 3.3.0.</description>
 		</release>
+		<release date="2023-12-20" version="1.0.3.2" md5="8b9505bb31b9fba8cc8146bdf58f9d30">
+			<package>https://github.com/pkp/customHeader/releases/download/v1_0_3-2/customHeader-v1_0_3-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>3.3.0.16</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>3.3.0.16</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>3.3.0.16</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Maintenance release of the custom header plugin for OJS/OMP/OPS 3.3.0.</description>
+		</release>
 		<release date="2023-03-31" version="1.0.4.1" md5="d38f01d1fb0d4f12e47fb3bc8f68eaeb">
 			<package>https://github.com/pkp/customHeader/releases/download/v1_0_4-1/customHeader-v1_0_4-1.tar.gz</package>
 			<compatibility application="ojs2">
