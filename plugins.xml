@@ -3751,6 +3751,39 @@
 			<certification type="official" />
 			<description>Maintenance release of the SWORD client plugin.</description>
 		</release>
+		<release date="2021-02-26" version="1.0.6.0" md5="6c1f7466db86c45a947c4453b7c9746a">
+			<package>https://github.com/pkp/sword/releases/download/v1_0_6-0/sword-v1_0_6-0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<compatibility application="ocs">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release of the SWORD client plugin for OJS/OCS 3.3.0.</description>
+		</release>
 	</plugin>
 	<plugin category="oaiMetadataFormats" product="oaiJats">
 		<name locale="en">OAI JATS Plugin</name>
