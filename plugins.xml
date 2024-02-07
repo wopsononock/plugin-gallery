@@ -4297,7 +4297,7 @@
 	<plugin category="themes" product="bootstrap3">
 		<name locale="en">Bootstrap3</name>
 		<name locale="en_US">Bootstrap3</name>
-		<homepage>https://github.com/NateWr/bootstrap3</homepage>
+		<homepage>https://github.com/pkp/bootstrap3</homepage>
 		<summary locale="en">A template Bootstrap3 theme for OJS 3.1.1+.</summary>
 		<summary locale="en_US">A template Bootstrap3 theme for OJS 3.1.1+.</summary>
 		<description locale="en"><![CDATA[<p>A template Boostrap3 theme for OJS 3.1.1+.</p>]]></description>
