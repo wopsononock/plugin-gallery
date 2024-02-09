@@ -10687,6 +10687,14 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official" />
 			<description>mEDRA plugin for OJS 3.4.0-x</description>
 		</release>
+		<release date="2024-02-08" version="4.0.0.1" md5="47ebb74c50dc3331edf4f0bf515b73c1">
+			<package>https://github.com/pkp/medra/releases/download/v4_0_0-1/medra-v4_0_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix for OJS 3.4.0-x</description>
+		</release>
 	</plugin>
 	<plugin category="importexport" product="medra">
 		<name locale="en">DOI to mEDRA xml export and registration plugin</name>
