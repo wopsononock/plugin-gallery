@@ -1067,7 +1067,6 @@
 			<description>Bugfix for password saving when using the settings form.</description>
 		</release>
 	</plugin>
-	</plugin>
 	<plugin category="generic" product="coins">
 		<name locale="en">COinS</name>
 		<name locale="en_US">COinS</name>
