@@ -7286,7 +7286,7 @@
 			</compatibility>
 			<certification type="reviewed" />
 			<description>Update for compatibility with v3.4.</description>
-		</release>		
+		</release>
 	</plugin>
 	<plugin category="generic" product="lensGalleyBits">
 		<name locale="en">Lens Viewer for Monographs and Journal Articles</name>
@@ -10960,6 +10960,14 @@ the registration of DOIs with mEDRA.</p>]]></description>
 		</release>
 		<release date="2024-02-08" version="4.0.0.1" md5="47ebb74c50dc3331edf4f0bf515b73c1">
 			<package>https://github.com/pkp/medra/releases/download/v4_0_0-1/medra-v4_0_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix for OJS 3.4.0-x</description>
+		</release>
+		<release date="2024-03-16" version="4.0.0.2" md5="e9b0602114d814c2b745c026bcb08a14">
+			<package>https://github.com/pkp/medra/releases/download/v4_0_0-2/medra-v4_0_0-2.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.4.0.0</version>
 			</compatibility>
