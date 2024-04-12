@@ -1394,6 +1394,30 @@
 			<certification type="official" />
 			<description>Maintenance release of the QuickSubmit plugin for OJS 3.3.0.</description>
 		</release>
+		<release date="2023-02-03" version="1.0.6.2" md5="2b77d60b4bde5a0c79c242fac68c168c">
+			<package>https://github.com/pkp/quickSubmit/releases/download/v1_0_6-2/quickSubmit-v1_0_6-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>3.3.0.16</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Maintenance release of the QuickSubmit plugin for OJS 3.3.0.</description>
+		</release>
 		<release date="2023-03-23" version="1.0.7.1" md5="bb0dfcfab218720ecc1f1cc506c9b26a">
 			<package>https://github.com/pkp/quickSubmit/releases/download/v1_0_7-1/quickSubmit-v1_0_7-1.tar.gz</package>
 			<compatibility application="ojs2">
