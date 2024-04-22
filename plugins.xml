@@ -10753,6 +10753,25 @@
 			<certification type="reviewed"/>
 			<description>PKP|PN for OJS 3.3.0-x. Minor fixes were added.</description>
 		</release>
+		<release date="2024-04-22" version="2.0.4.5" md5="1dcc9beacce27d31900f90a73ffc5d5a">
+			<package>https://github.com/pkp/pln/releases/download/v2_0_4-5/pln-v2_0_4-5.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>PKP|PN for OJS 3.3.0-x. Updated localization and fixed the version tag.</description>
+		</release>
 		<release date="2024-04-09" version="3.0.0.0" md5="38905141f0eac20457982713f1ce35a4">
 			<package>https://github.com/pkp/pln/releases/download/v3_0_0-0/pln-v3_0_0-0.tar.gz</package>
 			<compatibility application="ojs2">
