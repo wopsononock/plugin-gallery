@@ -61,5 +61,5 @@ jobs:
         if: ${{  github.event_name  == 'push'    && github.head_ref == 'main'}}
         run: |
           cd ~/${{github.event.pull_request.head.repo.name || github.event.repository.name  }}
-          GITHUB_TOKEN=${{secrets.GITHUB_TOKEN}} pkp-plugin generate-site $TRAVIS_BUILD_DIR/plugins.xml
+          GITHUB_TOKEN=${{secrets.GITHUB_TOKEN}} pkp-plugin generate-site ./plugins.xml
         shell: bash
