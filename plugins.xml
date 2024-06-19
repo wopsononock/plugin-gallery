@@ -11789,6 +11789,14 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official"/>
 			<description>Datacite plugin  Bugfix release</description>
 		</release>
+		<release date="2024-06-19" version="3.4.0.1" md5="a83acc4e7a90fadd7c03c87e64931d8d">
+			<package>https://github.com/withanage/datacite/releases/download/v3_4_0-1/datacite-v3_4_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="partner" />
+			<description>OJS 3.4 support</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="browseBySection">
 		<name locale="en">Browse By Section Plugin</name>
@@ -13488,6 +13496,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 		<name locale="es_ES">Preguntas personalizadas</name>
 		<homepage>https://github.com/lepidus/customQuestions</homepage>
 		<summary locale="en">Plugin to add custom questions to submission wizard</summary>
+		<summary locale="en_US">Plugin to add custom questions to submission wizard</summary>
 		<summary locale="en_US">Plugin to add custom questions to submission wizard</summary>
 		<summary locale="pt_BR">Plugin para adicionar perguntas personalizadas ao fluxo de submissão</summary>
 		<summary locale="es">Módulo para agregar preguntas personalizadas al asistente de envío.</summary>
