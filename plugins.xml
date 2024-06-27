@@ -13535,6 +13535,14 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="partner"/>
 			<description locale="en_US">Third party additions</description>
 		</release>
+		<release date="2024-06-27" version="3.4.0.1" md5="538451db7dcb52d786690546fd8c9ead">
+			<package>https://github.com/withanage/conference/releases/download/v3_4_0-1/conference-v3_4_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description locale="en">OJS 3.4 support</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="customQuestions">
 		<name locale="en">Custom Questions</name>
