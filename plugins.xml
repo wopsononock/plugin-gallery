@@ -8829,7 +8829,7 @@
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner" />
-			<description>Release of the Akismet plugin for OJS/OMP/OPS 3.3 with PHP 8.0 support</description>
+			<description>This update fixes a bug in the settings form</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="formHoneypot">
