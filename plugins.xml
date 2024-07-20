@@ -199,12 +199,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -218,12 +212,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -303,12 +291,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -333,12 +315,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -363,12 +339,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -398,12 +368,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -428,12 +392,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -458,12 +416,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -706,12 +658,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -725,12 +671,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -744,12 +684,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -864,12 +798,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -883,12 +811,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -907,12 +829,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -926,12 +842,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -950,12 +860,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -969,12 +873,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -993,12 +891,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -1012,12 +904,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1036,12 +922,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -1055,12 +935,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1137,12 +1011,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1167,12 +1035,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1359,12 +1221,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1383,12 +1239,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1407,12 +1257,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -1532,12 +1376,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -1552,12 +1390,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1572,12 +1404,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -1623,12 +1449,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1649,12 +1469,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -1683,12 +1497,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1709,12 +1517,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -1743,12 +1545,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1769,12 +1565,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -1803,12 +1593,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1829,12 +1613,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -1863,12 +1641,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1889,12 +1661,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -1943,12 +1709,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -1969,12 +1729,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -1995,12 +1749,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -2075,12 +1823,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -2233,12 +1975,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -2252,12 +1988,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -2323,24 +2053,12 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/><description>Release of the Shariff plugin for OJS 3.3.0.</description>
@@ -2351,24 +2069,12 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/><description>This release of the Shariff plugin for OJS/OMP 3.3.0 fixes a compatibility issue with PHP 8.</description>
@@ -2392,24 +2098,12 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/><description>This release of the Shariff plugin for OJS/OMP/OPS 3.3.0 WCAG compliant button styles.</description>
@@ -2616,12 +2310,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -2635,12 +2323,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -2654,12 +2336,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -2803,12 +2479,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -2828,12 +2498,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -2914,12 +2578,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -2933,12 +2591,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -2957,12 +2609,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -2976,12 +2622,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -2995,12 +2635,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -3162,12 +2796,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -3181,12 +2809,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -3200,12 +2822,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3224,12 +2840,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -3243,12 +2853,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -3262,12 +2866,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3286,12 +2884,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -3305,12 +2897,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -3324,12 +2910,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3438,12 +3018,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -3464,12 +3038,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -3490,12 +3058,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3515,12 +3077,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -3535,12 +3091,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -3555,12 +3105,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3812,12 +3356,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3836,12 +3374,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -3860,12 +3392,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4144,12 +3670,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4168,12 +3688,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4192,12 +3706,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4216,12 +3724,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4371,12 +3873,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -4407,12 +3903,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -4443,12 +3933,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -4474,12 +3958,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -4525,12 +4003,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -4556,12 +4028,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -4730,12 +4196,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4755,12 +4215,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4780,12 +4234,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4805,12 +4253,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -4948,12 +4390,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -4972,12 +4408,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -5121,12 +4551,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -5145,12 +4569,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -5250,12 +4668,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -5290,12 +4702,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -5315,12 +4721,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -5340,12 +4740,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -5365,12 +4759,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -5390,12 +4778,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -5610,12 +4992,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -5635,12 +5011,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -5696,12 +5066,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -5717,12 +5081,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -5857,12 +5215,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -5881,12 +5233,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6200,12 +5546,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6220,12 +5560,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6245,12 +5579,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6265,12 +5593,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6290,12 +5612,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6310,12 +5626,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6356,12 +5666,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6376,12 +5680,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6422,12 +5720,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6442,12 +5734,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6467,12 +5753,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6487,12 +5767,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6512,12 +5786,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6532,12 +5800,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6578,12 +5840,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6598,12 +5854,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6623,12 +5873,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6643,12 +5887,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -6733,12 +5971,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -6753,12 +5985,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -7180,12 +6406,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -7206,12 +6426,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -7232,12 +6446,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -7311,12 +6519,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -7336,12 +6538,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -7352,12 +6548,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -7521,12 +6711,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -9249,12 +8433,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9269,12 +8447,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/>
@@ -9294,12 +8466,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9314,12 +8480,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/>
@@ -9339,12 +8499,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9359,12 +8513,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/>
@@ -9553,12 +8701,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9579,12 +8721,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -9605,12 +8741,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -9636,12 +8766,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9662,12 +8786,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -9688,12 +8806,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -9713,12 +8825,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9733,12 +8839,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -9753,12 +8853,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -9778,12 +8872,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9798,12 +8886,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -9818,12 +8900,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -9931,12 +9007,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -9957,12 +9027,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -9983,12 +9047,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -10014,12 +9072,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -10040,12 +9092,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -10066,12 +9112,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -10097,12 +9137,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -10123,12 +9157,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -10149,12 +9177,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -10174,12 +9196,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -10194,12 +9210,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -10214,12 +9224,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -10317,12 +9321,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -10347,12 +9345,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -10377,12 +9369,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -10447,12 +9433,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -10477,12 +9457,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -10507,12 +9481,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -10601,12 +9569,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -10706,12 +9668,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -10725,12 +9681,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -10744,12 +9694,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -10782,12 +9726,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/>
@@ -10889,12 +9827,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -10913,12 +9845,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -11044,12 +9970,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -11069,12 +9989,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -11221,12 +10135,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -11263,12 +10171,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -11287,12 +10189,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -11408,12 +10304,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version><!-- Previous 3.3.x did not have flysystem sftp -->
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -11473,12 +10363,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/>
@@ -11503,12 +10387,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -11522,12 +10400,6 @@
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner"/>
@@ -11627,12 +10499,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -11648,12 +10514,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -11669,12 +10529,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -11684,12 +10538,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<package>https://github.com/pkp/medra/releases/download/v3_0_0-3/medra-v3_0_0-3.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -11699,12 +10547,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<package>https://github.com/pkp/medra/releases/download/v3_0_0-4/medra-v3_0_0-4.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official" />
@@ -11761,12 +10603,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -11809,12 +10645,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -11899,12 +10729,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -11918,12 +10742,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -11937,12 +10755,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -12007,12 +10819,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -12031,12 +10837,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="official"/>
@@ -12274,12 +11074,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12293,12 +11087,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -12320,12 +11108,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12339,12 +11121,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -12366,12 +11142,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12385,12 +11155,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -12412,12 +11176,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12431,12 +11189,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -12458,12 +11210,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12477,12 +11223,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -12553,12 +11293,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -12572,12 +11306,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 
@@ -12646,12 +11374,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="partner" />
@@ -12691,12 +11413,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -12719,12 +11435,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -12739,12 +11449,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12759,12 +11463,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -12787,12 +11485,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -12807,12 +11499,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12827,12 +11513,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -12891,12 +11571,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -12911,12 +11585,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12931,12 +11599,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -12959,12 +11621,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -12979,12 +11635,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -12999,12 +11649,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -13027,12 +11671,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -13047,12 +11685,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -13067,12 +11699,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -13095,12 +11721,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -13115,12 +11735,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -13135,12 +11749,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -13163,12 +11771,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -13183,12 +11785,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -13203,12 +11799,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -13231,12 +11821,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -13251,12 +11835,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -13271,12 +11849,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -13331,12 +11903,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="omp">
@@ -13351,12 +11917,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<compatibility application="ops">
@@ -13371,12 +11931,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
@@ -13430,12 +11984,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -13469,12 +12017,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed"/>
@@ -13522,12 +12064,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<description>Initial release.</description>
@@ -13546,12 +12082,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<description locale="en">Fixed base directory name.</description>
@@ -13571,12 +12101,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<description locale="en">Updated version and download metadata to match.</description>
@@ -13596,12 +12120,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<description locale="en">Design changes and bug fixes.</description>
@@ -13621,12 +12139,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<description locale="en">Template and language fixes in locale.po.</description>
@@ -13657,12 +12169,6 @@ the registration of DOIs with mEDRA.</p>]]></description>
 				<version>3.3.0.8</version>
 				<version>3.3.0.9</version>
 				<version>3.3.0.10</version>
-				<version>3.3.0.11</version>
-				<version>3.3.0.12</version>
-				<version>3.3.0.13</version>
-				<version>3.3.0.14</version>
-				<version>3.3.0.15</version>
-				<version>3.3.0.16</version>
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
