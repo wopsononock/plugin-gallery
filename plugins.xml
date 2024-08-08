@@ -9789,7 +9789,7 @@
 			<institution>Clarivate</institution>
 			<email>reviewservices@clarivate.com</email>
 		</maintainer>
-		<release date="2024-08-08" version="1.3.4.0" md5="e607c37df8dfd4357e4cc219cce67bd1">
+		<release date="2024-08-08" version="1.3.4.0" md5="72d62768f0db7d460950e6416c467ec5">
 			<package>https://github.com/clarivate/wos_reviewer_recognition_plugin_ojs_3/releases/download/v1.3.4.0/webOfScience.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.4.0.1</version>
