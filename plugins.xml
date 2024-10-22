@@ -10635,6 +10635,15 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<certification type="official" />
 			<description>No contributors, subtitle element, different schema location for test and production</description>
 		</release>
+		<release date="2024-10-22" version="3.0.0.5" md5="d8fc77a95608acfbbdd8b88b73c15d2b">
+			<package>https://github.com/pkp/medra/releases/download/v3_0_0-5/medra-v3_0_0-5.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.10</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Fix key attribute of ArticleCitation element for galley DOIs</description>
+		</release>
 	</plugin>
 	<plugin category="pubIds" product="ark">
 		<name locale="en">ARK</name>
