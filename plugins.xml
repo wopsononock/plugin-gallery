@@ -8615,7 +8615,7 @@
 	<plugin category="generic" product="authorRequirements">
 		<name locale="en">Author Requirements</name>
 		<name locale="en_US">Author Requirements</name>
-		<homepage>https://github.com/ewhanson/authorRequirements</homepage>
+		<homepage>https://github.com/pkp/authorRequirements</homepage>
 		<summary locale="en">Make certain author fields optional.</summary>
 		<summary locale="en_US">Make certain author fields optional.</summary>
 		<description locale="en">This plugin makes it possible to add an author to a list of contributors without using certain required fields (e.g. email). This is useful in cases where required information does not exist for authors.</description>
@@ -8626,7 +8626,7 @@
 			<email>hansonew@gmail.com</email>
 		</maintainer>
 		<release date="2019-10-27" version="1.0.0.0" md5="0303e950caf99d2c4a9d11529ddb18db">
-			<package>https://github.com/ewhanson/authorRequirements/releases/download/v1.0.0-0/authorRequirements-1.0.0-0.tar.gz</package>
+			<package>https://github.com/pkp/authorRequirements/releases/download/v1.0.0-0/authorRequirements-1.0.0-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.1.2.0</version>
 				<version>3.1.2.1</version>
@@ -8645,7 +8645,7 @@
 			<description>Initial release of the authorRequirements plugin for OJS/OMP 3.1.x</description>
 		</release>
 		<release date="2020-02-26" version="1.0.0.1" md5="b4678522339100227e2a2770f7041e08">
-			<package>https://github.com/ewhanson/authorRequirements/releases/download/v1.0.0-1/authorRequirements-1.0.0-1.tar.gz</package>
+			<package>https://github.com/pkp/authorRequirements/releases/download/v1.0.0-1/authorRequirements-1.0.0-1.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.2.0.0</version>
 				<version>3.2.0.1</version>
@@ -8664,7 +8664,7 @@
 			<description>Release of the authorRequirements plugin for OJS/OMP 3.2.0</description>
 		</release>
 		<release date="2021-02-02" version="1.0.1.0" md5="42a1097da965784028ea5849ab1a1362">
-			<package>https://github.com/ewhanson/authorRequirements/releases/download/v1.0.1-0/authorRequirements-1.0.1-0.tar.gz</package>
+			<package>https://github.com/pkp/authorRequirements/releases/download/v1.0.1-0/authorRequirements-1.0.1-0.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
@@ -8697,7 +8697,7 @@
 			<description>Release of the authorRequirements plugin for OJS/OMP 3.3.0</description>
 		</release>
 		<release date="2021-08-16" version="1.0.1.1" md5="910e86d153ff882355be2c2bce08f3b0">
-			<package>https://github.com/ewhanson/authorRequirements/releases/download/v1.0.1-1/authorRequirements-1.0.1-1.tar.gz</package>
+			<package>https://github.com/pkp/authorRequirements/releases/download/v1.0.1-1/authorRequirements-1.0.1-1.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
@@ -8730,7 +8730,7 @@
 			<description>Update to authorRequirements plugin fixing compatability issues in OMP 3.3</description>
 		</release>
 		<release date="2021-09-27" version="1.0.1.2" md5="24ff4f6ad97f6efd89bacc6375fd87dd">
-			<package>https://github.com/ewhanson/authorRequirements/releases/download/v1.0.1-2/authorRequirements-1.0.1-2.tar.gz</package>
+			<package>https://github.com/pkp/authorRequirements/releases/download/v1.0.1-2/authorRequirements-1.0.1-2.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>3.3.0.0</version>
 				<version>3.3.0.1</version>
