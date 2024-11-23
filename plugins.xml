@@ -12774,7 +12774,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 	<plugin category="generic" product="journalEditorRestriction">
 		<name locale="en">Journal Editor Restriction Plugin</name>
 		<name locale="en_US">Journal Editor Restriction Plugin</name>
-		<homepage>https://openjournaltheme.com/docs/ojs-product-documentation-free/journal-editor-restriction-plugin/</homepage>
+		<homepage>https://openjournaltheme.com/docs/journal-editor-restriction-plugin/</homepage>
 		<summary locale="en">Restricts some access for Journal Editors</summary>
 		<summary locale="en_US">Restricts some access for Journal Editors</summary>
 		<description locale="en"><![CDATA[<p>This plugin will disable access for Journal Editors to the following sections:</p>
