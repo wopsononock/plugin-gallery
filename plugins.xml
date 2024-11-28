@@ -9974,6 +9974,24 @@
 			<institution>Clarivate</institution>
 			<email>reviewservices@clarivate.com</email>
 		</maintainer>
+		<release date="2024-11-26" version="1.3.1.0" md5="9589aa157daac66a9c466b9d03a59958">
+			<package>https://github.com/clarivate/wos_reviewer_recognition_plugin_ojs_old/releases/download/v1.3.1.0/webOfScience_1_3_1_0.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.1.0.0</version>
+				<version>3.1.0.1</version>
+				<version>3.1.1.0</version>
+				<version>3.1.1.1</version>
+				<version>3.1.1.2</version>
+				<version>3.1.1.4</version>
+				<version>3.1.2.0</version>
+				<version>3.1.2.1</version>
+				<version>3.1.2.2</version>
+				<version>3.1.2.3</version>
+				<version>3.1.2.4</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Rebrand of old Publons plugin for OJS 3.1 to Web of Science</description>
+		</release>
 		<release date="2024-10-03" version="1.3.4.1" md5="d6d20dd1ae7547e855bd03e4a09de6a9">
 			<package>https://github.com/clarivate/wos_reviewer_recognition_plugin_ojs_3/releases/download/v1.3.4.1/webOfScience.tar.gz</package>
 			<compatibility application="ojs2">
@@ -9986,6 +10004,20 @@
 			</compatibility>
 			<certification type="reviewed"/>
 			<description>Support for OJS 3.4, rebrand to Web of Science</description>
+		</release>
+		<release date="2024-11-26" version="1.3.4.2" md5="3040e43abee94f09941c95c726709eeb">
+			<package>https://github.com/clarivate/wos_reviewer_recognition_plugin_ojs_3/releases/download/v1.3.4.2/webOfScience_1_3_4_2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.4.0.1</version>
+				<version>3.4.0.2</version>
+				<version>3.4.0.3</version>
+				<version>3.4.0.4</version>
+				<version>3.4.0.5</version>
+				<version>3.4.0.6</version>
+				<version>3.4.0.7</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Updated link to Terms and Conditions, included support for 3.4.0.7</description>
 		</release>
 	</plugin>
 	<plugin category="themes" product="pragma">
