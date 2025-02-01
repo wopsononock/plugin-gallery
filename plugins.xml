@@ -3822,6 +3822,17 @@
 			<certification type="official" />
 			<description>Compatibility release of the SWORD client plugin for OJS/OPS 3.4.0.</description>
 		</release>
+		<release date="2025-01-31" version="1.0.7.2" md5="6c16844e9b6c79809f74f50867d9ab23">
+			<package>https://github.com/pkp/sword/releases/download/v1_0_7-2/sword-v1_0_7-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the SWORD client plugin for OJS/OPS 3.4.0.</description>
+		</release>
 	</plugin>
 	<plugin category="oaiMetadataFormats" product="oaiJats">
 		<name locale="en">OAI JATS Plugin</name>
