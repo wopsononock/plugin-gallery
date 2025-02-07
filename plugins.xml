@@ -11048,7 +11048,7 @@ the registration of DOIs with OP DOI RA.</p>]]></description>
 			<institution>mEDRA Ediser S.r.l</institution>
 			<email>op.support@medra.org</email>
 		</maintainer>
-		<release date="2025-01-16" version="1.0.0.0" md5="f6a40c43cf44bfc3cd67c0b13b9eb43e">
+		<release date="2025-02-07" version="1.0.0.1" md5="f6a40c43cf44bfc3cd67c0b13b9eb43e">
 			<package>https://github.com/Ediser-mEDRA/opdoiraojsplugin/releases/download/v1_0_0-1/opdoiraojsplugin-v1_0_0-1.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.4.0.0</version>
