@@ -11189,7 +11189,7 @@ the registration of DOIs with mEDRA.</p>]]></description>
 	<plugin category="generic" product="openid">
 		<name locale="en">OpenID Authentication Plugin</name>
 		<name locale="en_US">OpenID Authentication Plugin</name>
-		<homepage>https://github.com/leibniz-psychology/openid</homepage>
+		<homepage>https://github.com/pkp/openid</homepage>
 		<summary locale="en">This plugin allows users to register and login with an OpenID Connect provider such as Keycloak, Google, Orchid, Microsoft and Apple</summary>
 		<summary locale="en_US">This plugin allows users to register and login with an OpenID Connect provider such as Keycloak, Google, Orchid, Microsoft and Apple</summary>
 		<description locale="en"><![CDATA[<p>This plugin enables logging in to PKP applications using OpenID Connect providers. It currently supports Google, Apple ID, Microsoft Azure AD and Orchid. It is also possible to configure a custom OpenID Connect provider such as Keycloak.</p><p>For more information check <a href="https://github.com/leibniz-psychology/openid">GitHub</a><br><strong>Read the <a href="https://github.com/leibniz-psychology/openid/wiki">wiki</a> if you need help with the configuration.</strong></p>]]></description>
