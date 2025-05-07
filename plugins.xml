@@ -9577,6 +9577,20 @@
 			<certification type="official" />
 			<description>Compatibility release for OJS/OMP/OPS 3.4.0</description>
 		</release>
+		<release date="2025-05-07" version="1.0.1.1" md5="3de85f34eb3321b3450316c54a8ce2a8">
+			<package>https://github.com/pkp/textEditorExtras/releases/download/v1_0_1-1/textEditorExtras-v1_0_1-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="omp">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<compatibility application="ops">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Compatibility release for OJS/OMP/OPS 3.4.0</description>
+		</release>
 	</plugin>
 	<plugin category="blocks" product="twitterBlock">
 		<name locale="en">Twitter Block Plugin</name>
