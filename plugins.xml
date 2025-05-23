@@ -4358,7 +4358,7 @@
 			<description locale="pt_BR">Corrige problema de desempenho na recuperação das palavras-chave.</description>
 		</release>
 		<release date="2024-05-23" version="2.1.1.0" md5="b546dd98126a5d199af5d4255d2a3a7f">
-			<package>https://github.com/lepidus/keywordCloud/releases/download/v2.1.1.0/keywordCloud.tar.gzz</package>
+			<package>https://github.com/lepidus/keywordCloud/releases/download/v2.1.1.0/keywordCloud.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.4.0.0</version>
 			</compatibility>
