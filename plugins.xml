@@ -11989,6 +11989,37 @@ the registration of DOIs with mEDRA.</p>]]></description>
 			<description locale="pt_BR">Se nenhuma opção de área de interesse estiver configurada, o plugin não habilita mais seus recursos e validações. Renomeado para "Áreas de interesse predefinidas" e documentação do plugin aprimorada.</description>
 			<description locale="es">Si no se configura ninguna opción de interés, el plugin ya no habilita sus funciones ni validaciones. Renombrado a "Intereses de revisión predefinidos" y documentación del plugin mejorada.</description>
 		</release>
+		<release date="2026-07-02" version="1.0.5.0" md5="6948a1617c74f0cdf70b3e1287ed536c">
+			<package>https://github.com/lepidus/selectionOfReviewingInterests/releases/download/v1.0.5.0/selectionOfReviewingInterests.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description locale="en_US">Fixes the reviewing interests dropdown position after option removal.</description>
+			<description locale="pt_BR">Corrige a posição da lista suspensa de áreas de interesse de avaliação após a remoção de uma opção.</description>
+			<description locale="es_ES">Corrige la posición del desplegable de intereses de revisión después de eliminar una opción.</description>
+		</release>
+		<release date="2026-07-03" version="2.0.6.0" md5="37aec15611493a45e0b4cb5060cd1fb7">
+			<package>https://github.com/lepidus/selectionOfReviewingInterests/releases/download/v2.0.6.0/selectionOfReviewingInterests.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description locale="en">Fixes the reviewing interests dropdown position after option removal.</description>
+			<description locale="pt_BR">Corrige a posição da lista suspensa de áreas de interesse de avaliação após a remoção de uma opção.</description>
+			<description locale="es">Corrige la posición del desplegable de intereses de revisión después de eliminar una opción.</description>
+		</release>
 	</plugin>
 	<plugin category="generic" product="websitePreview">
 		<name locale="en">Website Preview</name>
