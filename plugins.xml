@@ -4223,6 +4223,14 @@
 			<certification type="official" />
 			<description>Maintenance release of the plugin for OJS 3.4.0</description>
 		</release>
+		<release date="2026-07-17" version="2.0.0.2" md5="281c8e7bb394b2466b42866da8b4eb5a">
+			<package>https://github.com/pkp/crossrefReferenceLinking/releases/download/v2_0_0-2/crossrefReferenceLinking-v2_0_0-2.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.4.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the plugin for OJS 3.4.0</description>
+		</release>
 		<release date="2025-05-07" version="3.0.0.0" md5="66ca4e3073356af9b4557f5448c78bd3">
 			<package>https://github.com/pkp/crossrefReferenceLinking/releases/download/v3_0_0-0/crossrefReferenceLinking-v3_0_0-0.tar.gz</package>
 			<compatibility application="ojs2">
@@ -4233,6 +4241,14 @@
 		</release>
 		<release date="2025-07-30" version="3.0.0.1" md5="7ec3b0492ac22f03863165d376938680">
 			<package>https://github.com/pkp/crossrefReferenceLinking/releases/download/v3_0_0-1/crossrefReferenceLinking-v3_0_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.5.0.0</version>
+			</compatibility>
+			<certification type="official" />
+			<description>Bugfix release of the plugin for OJS 3.5.0</description>
+		</release>
+		<release date="2026-07-17" version="3.0.0.2" md5="189f4d7f1d04dc6f6bdb9c1cfa8e389a">
+			<package>https://github.com/pkp/crossrefReferenceLinking/releases/download/v3_0_0-2/crossrefReferenceLinking-v3_0_0-2.tar.gz</package>
 			<compatibility application="ojs2">
 				<version>~3.5.0.0</version>
 			</compatibility>
