@@ -5233,17 +5233,17 @@
 		</release>
 	</plugin>
 	<plugin category="generic" product="openAIRE">
-		<name locale="en">OpenAIRE Plugin 2.0</name>
-		<name locale="en_US">OpenAIRE Plugin 2.0</name>
-		<homepage>https://github.com/ojsde/openAIRE</homepage>
-		<summary locale="en">This plugin adds a new OAI-PMH metadata format to Open Journal Systems that complements the OpenAIRE Guidelines for Literature Repository Managers v4.</summary>
-		<summary locale="en_US">This plugin adds a new OAI-PMH metadata format to Open Journal Systems that complements the OpenAIRE Guidelines for Literature Repository Managers v4.</summary>
-		<description locale="en"><![CDATA[<p>For detailed instructions, see plugin Readme file https://github.com/ojsde/openAIRE/blob/master/readme.md.</p>]]></description>
-		<description locale="en_US"><![CDATA[<p>For detailed instructions, see plugin Readme file https://github.com/ojsde/openAIRE/blob/master/readme.md.</p>]]></description>
+		<name locale="en">OpenAIRE</name>
+		<name locale="en_US">OpenAIRE</name>
+		<homepage>https://github.com/Academic-Journals-cz/openAIRE</homepage>
+		<summary locale="en">OpenAIRE OAI-PMH Plugin</summary>
+		<summary locale="en_US">OpenAIRE OAI-PMH Plugin</summary>
+		<description locale="en">This plugin adds a new OAI-PMH metadata format to Open Journal Systems that complements the OpenAIRE Guidelines for Literature Repository Managers v4.</description>
+		<description locale="en_US">This plugin adds a new OAI-PMH metadata format to Open Journal Systems that complements the OpenAIRE Guidelines for Literature Repository Managers v4.</description>
 		<maintainer>
-			<name>Antti-Jussi Nygård</name>
-			<institution>OJS-de.net</institution>
-			<email>ajnyga@gmail.com</email>
+			<name>Radek Gomola</name>
+			<institution>Charles University Karolinum Press / Palacký University Press</institution>
+			<email>radek.gomola@ruk.cuni.cz</email>
 		</maintainer>
 		<release date="2021-02-08" version="2.0.3.0" md5="867cd01872b3e6eb225d49ab6ef73151">
 			<package>https://github.com/ojsde/openAIRE/releases/download/2.0.3.0/openAIRE.tar.gz</package>
@@ -5279,7 +5279,7 @@
 				<version>~3.3.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
-			<description>Bug fix for v3.3.</description>
+			<description>Bug fix for v3.3. As of OJS 3.5, this plugin is merged with https://github.com/Academic-Journals-cz/openAIRE.</description>
 		</release>
 		<release date="2024-02-22" version="3.4.0.1" md5="58b88ec1c91a0d7ae2da22993713e54b">
 			<package>https://github.com/ojsde/openAIRE/releases/download/3.4.0.1/openAIRE.tar.gz</package>
@@ -5295,7 +5295,15 @@
 				<version>~3.4.0.0</version>
 			</compatibility>
 			<certification type="reviewed" />
-			<description>Update for compatibility with v3.4.</description>
+			<description>Update for compatibility with v3.4. As of OJS 3.5, this plugin is merged with https://github.com/Academic-Journals-cz/openAIRE.</description>
+		</release>
+		<release date="2026-07-20" version="3.5.0.1" md5="d35ca765305d6d5bc53912ba0a0f9c5c">
+			<package>https://github.com/Academic-Journals-cz/openAIRE/releases/download/v3.5.0-1/openAIRE-v3_5_0-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>~3.5.0.0</version>
+			</compatibility>
+			<certification type="reviewed" />
+			<description>The plugin now serves both oai_openaire and oai_openaire_jats formats. Replaces the previous https://github.com/ojsde/openAIRE, which is retired and will not receive further updates for OJS >= 3.5.</description>
 		</release>
 	</plugin>
 	<plugin category="generic" product="lensGalleyBits">
